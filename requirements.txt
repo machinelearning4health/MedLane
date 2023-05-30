@@ -1,0 +1,8 @@
+torch==1.7.1+cu110
+transformers==4.4.0
+numpy==1.19.5
+nltk==3.5
+tqdm==4.60.0
+Keras==2.1.6
+scikit_learn==0.24.2
+git+https://github.com/Maluuba/nlg-eval.git@master
