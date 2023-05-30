@@ -1,0 +1,1200 @@
+pt was restarted on diuresis to help mobilize fluid .
+1 pt[patient] was restarted on medicine that makes body produce more pee to help mobilize fluid .
+1 pt[patient] was restarted on medicine that makes body produce more pee to help mobilize fluid .
+3 you were restarted on medicine that makes body produce more pee to help mobilize fluid .
+3 you were restarted on medicine that makes body produce more pee to help mobilize fluid .
+
+the large lower pole of the om1 was totally occluded by thrombus .
+1 the large lower pole of the om1 was totally blocked by blood clots .
+1 the large lower pole of the om1 was totally blocked by blood clots .
+3 the large lower pole of the om1 was totally blocked by blood clots .
+3 the large lower pole of the om1 was totally blocked by blood clots .
+
+she was intubated and was resuscitated after 10-22 minutes of pea arrest .
+1 she was intubated and was waken up after 10-22 minutes of pea[pulseless electrical activity] arrest .
+2 she was intubated and was waken up after 10-22 minutes of unresponsive pulse arrest .
+3 you were intubated and was waken up after 10-22 minutes of pea[pulseless electrical activity] arrest .
+4 you were intubated and was waken up after 10-22 minutes of unresponsive pulse arrest .
+
+he was closely followed by id , pulmonary , and ep .
+1 he was closely followed by id[identifying data] , lungs , and ep[electrophysiology procedure] .
+2 he was closely followed by id[identifying data] , lungs , and heart electric test .
+3 you were closely followed by id[identifying data] , lungs , and ep[electrophysiology procedure] .
+4 you were closely followed by id[identifying data] , lungs , and heart electric test .
+
+the patient was monitored on continous telemtry throughout his stay without any clearly contributable cardiac arrhythmias .
+1 the patient was monitored on continous health measurements remotely throughout his stay without any clearly contributable heart abnormal heart rhythm .
+1 the patient was monitored on continous health measurements remotely throughout his stay without any clearly contributable heart abnormal heart rhythm .
+3 you were monitored on continous health measurements remotely throughout your stay without any clearly contributable heart abnormal heart rhythm .
+3 you were monitored on continous health measurements remotely throughout your stay without any clearly contributable heart abnormal heart rhythm .
+
+on 7-13 he was noted with increasing lfts and lipase ; mrcp was performed which showed worsening pancreatic necrosis and edema as well as worsening hemorrhagic collections around the pancreas ( at this time he was coagulopathic with an inr of ~6 ) .
+1 on 7-13 he was noted with increasing lfts[liver function test] and lipase ; mrcp[magnetic resonance cholangiopancreatography] was performed which showed worsening pancreatic necrosis and edema as well as worsening bleeding collections around the pancreas ( at this time he was coagulopathic with an inr[international normalized ratio] of ~6 ) .
+2 on 7-13 he was noted with increasing lfts[liver function test] and lipase ; magnetic resonance imaging was performed which showed worsening pancreatic necrosis and edema as well as worsening bleeding collections around the pancreas ( at this time he was coagulopathic with an inr[international normalized ratio] of ~6 ) .
+3 on 7-13 you were noted with increasing lfts[liver function test] and lipase ; mrcp[magnetic resonance cholangiopancreatography] was performed which showed worsening pancreatic necrosis and edema as well as worsening bleeding collections around the pancreas ( at this time he was coagulopathic with an inr[international normalized ratio] of ~6 ) .
+4 on 7-13 you were noted with increasing lfts[liver function test] and lipase ; magnetic resonance imaging was performed which showed worsening pancreatic necrosis and edema as well as worsening bleeding collections around the pancreas ( at this time he was coagulopathic with an inr[international normalized ratio] of ~6 ) .
+
+no vitamin k was given secondary to the patient 's anticoagulation needs .
+1 no vitamin k was given secondary to the patient 's blood clot prevention needs .
+1 no vitamin k was given secondary to the patient 's blood clot prevention needs .
+3 no vitamin k was given secondary to the patient 's blood clot prevention needs .
+3 no vitamin k was given secondary to the patient 's blood clot prevention needs .
+
+ct chest showed likely multifocal pneumonia which was possible due to aspiration .
+1 ct[computed tomography] chest showed likely multifocal lung infection which was possible due to aspiration .
+2 chest imaging showed likely multifocal lung infection which was possible due to aspiration .
+3 ct[computed tomography] chest showed likely multifocal lung infection which was possible due to aspiration .
+4 chest imaging chest showed likely multifocal lung infection which was possible due to aspiration .
+
+# aml : the patient was diagnosed with aml on bmb , and has tolerated 7+3 therapy without complaint .
+1 # aml[acute myeloid leukemia] : the patient was diagnosed with aml[acute myeloid leukemia] on bmb[bone marrow biopsy] , and has tolerated 7+3 therapy without complaint .
+2 # cancer that starts in the blood-forming cells : the patient was diagnosed with cancer that starts in the blood-forming cells on removal of marrow from inside bone , and has tolerated 7+3 therapy without complaint .
+3 # aml[acute myeloid leukemia] : you were diagnosed with aml[acute myeloid leukemia] on bmb[bone marrow biopsy] , and have tolerated 7+3 therapy without complaint .
+4 # cancer that starts in the blood-forming cells : you were diagnosed with cancer that starts in the blood-forming cells on removal of marrow from inside bone , and have tolerated 7+3 therapy without complaint .
+
+in ed , found to be in 1st degree heart block with lbbb .
+1 in ed[emergency department] , found to be in 1st degree heart block with lbbb[left bundle branch block] .
+2 in ed[emergency department] , found to be in 1st degree heart block with heart disease .
+3 in ed[emergency department] , found to be in 1st degree heart block with lbbb[left bundle branch block] .
+4 in ed[emergency department] , found to be in 1st degree heart block with heart disease .
+
+ob/gyn had also been consulted , and performed a bedside ultrasound .
+1 ob/gyn[gynecology] had also been consulted , and performed a bedside ultrasound .
+1 ob/gyn[gynecology] had also been consulted , and performed a bedside ultrasound .
+3 ob/gyn[gynecology] had also been consulted , and performed a bedside ultrasound .
+3 ob/gyn[gynecology] had also been consulted , and performed a bedside ultrasound .
+
+he was extubated within 2 hours of arrival to cvicu with pain control an issue post operatively .
+1 he was removed from ventilator within 2 hours of arrival to cvicu[cardiovascular intensive care unit] with pain control an issue post operatively .
+1 he was removed from ventilator within 2 hours of arrival to cvicu[cardiovascular intensive care unit] with pain control an issue post operatively .
+3 you were removed from ventilator within 2 hours of arrival to cvicu[cardiovascular intensive care unit] with pain control an issue post operatively .
+3 you were removed from ventilator within 2 hours of arrival to cvicu[cardiovascular intensive care unit] with pain control an issue post operatively .
+
+on 9-28 the patient again began to complain of abdominal pain , diffuse in nature , constant and sharp in nature , rated 9-8 .
+1 on 9-28 the patient again began to complain of abdominal pain , diffuse in nature , constant and sharp in nature , rated 9-8 .
+1 on 9-28 the patient again began to complain of abdominal pain , diffuse in nature , constant and sharp in nature , rated 9-8 .
+3 on 9-28 the you again began to complain of abdominal pain , diffuse in nature , constant and sharp in nature , rated 9-8 .
+3 on 9-28 the you again began to complain of abdominal pain , diffuse in nature , constant and sharp in nature , rated 9-8 .
+
+htn thought to be secondary to chronic volume overload and significant vessel non-compliance .
+1 htn[hypertension] thought to be secondary to chronic volume overload and significant vessel non-compliance .
+1 htn[hypertension] thought to be secondary to chronic volume overload and significant vessel non-compliance .
+3 htn[hypertension] thought to be secondary to chronic volume overload and significant vessel non-compliance .
+3 htn[hypertension] thought to be secondary to chronic volume overload and significant vessel non-compliance .
+
+her acute cardiac issues had resolved and she was called out to the medicine service .
+1 her acute heart issues had resolved and she was called out to the medicine service .
+1 her acute heart issues had resolved and she was called out to the medicine service .
+3 you acute heart issues had resolved and she was called out to the medicine service .
+3 you acute heart issues had resolved and she was called out to the medicine service .
+
+she underwent cardiac catheterization and a angioplasty with stent placement of the circumflex artery on 2168-12-30 .
+1 she underwent heart vessels catheterization and a blood flow restoration surgery with stent placement of the circumflex artery on 2168-12-30 .
+1 she underwent heart vessels catheterization and a blood flow restoration surgery with stent placement of the circumflex artery on 2168-12-30 .
+3 you underwent heart vessels catheterization and a blood flow restoration surgery with stent placement of the circumflex artery on 2168-12-30 .
+3 you underwent heart vessels catheterization and a blood flow restoration surgery with stent placement of the circumflex artery on 2168-12-30 .
+
+she states her mother 's mental status has been progressively declining since her discharge from the hospital on 1-22 .
+1 she states her mother 's mental status has been progressively declining since her discharge from the hospital on 1-22 .
+1 she states her mother 's mental status has been progressively declining since her discharge from the hospital on 1-22 .
+3 you state your mother 's mental status has been progressively declining since her discharge from the hospital on 1-22 .
+3 you state your mother 's mental status has been progressively declining since her discharge from the hospital on 1-22 .
+
+per patient , he took pepto-bismol 3 times earlier in the weeks for 3 days .
+1 per patient , he took pepto-bismol 3 times earlier in the weeks for 3 days .
+1 per patient , he took pepto-bismol 3 times earlier in the weeks for 3 days .
+3 per patient , he took pepto-bismol 3 times earlier in the weeks for 3 days .
+3 per patient , he took pepto-bismol 3 times earlier in the weeks for 3 days .
+
+lights , noise , and head movement exacerbate the discomfort , as does exertion ( eg coughing and sneezing ) .
+1 lights , noise , and head movement intensify the discomfort , as does exertion ( eg coughing and sneezing ) .
+1 lights , noise , and head movement intensify the discomfort , as does exertion ( eg coughing and sneezing ) .
+3 lights , noise , and head movement intensify the discomfort , as does exertion ( eg coughing and sneezing ) .
+3 lights , noise , and head movement intensify the discomfort , as does exertion ( eg coughing and sneezing ) .
+
+gi was called who stated that they would perform egd in am .
+1 gi[gastrointestinal] was called who stated that they would perform egd[esophagogastroduodenoscopy] in am[before noon] .
+2 digestive doctor was called who stated that they would perform stomach scopy in am[before noon] .
+3 gi[gastrointestinal] was called who stated that they would perform egd[esophagogastroduodenoscopy] in am[before noon] .
+4 digestive doctor was called who stated that they would perform stomach scopy in am[before noon] .
+
+overnight on 1-11 , patient reported severe headache that was relieved with iv dilaudid .
+1 overnight on 1-11 , patient reported severe headache that was relieved with iv[intravenous] dilaudid .
+2 overnight on 1-11 , patient reported severe headache that was relieved with vein dilaudid .
+3 overnight on 1-11 , you reported severe headache that was relieved with iv[intravenous] dilaudid .
+4 overnight on 1-11 , you reported severe headache that was relieved with vein dilaudid .
+
+he felt lightheaded and had a burning sensation in his chest prior to the shock .
+1 he felt lightheaded and had a burning sensation in his chest prior to the shock .
+1 he felt lightheaded and had a burning sensation in his chest prior to the shock .
+3 you felt lightheaded and had a burning sensation in your chest prior to the shock .
+3 you felt lightheaded and had a burning sensation in your chest prior to the shock .
+
+this was thought to be iatrogenic 1-15 stenting and possible jailing of the diagonal , so he was started on heparin drip and treated for stemi .
+1 this was thought to be iatrogenic[relating to illness caused by medical examination or treatment] 1-15 stenting and possible jailing of the diagonal , so he was started on heparin drip and treated for stemi[st elevation myocardial infarction] .
+2 this was thought to be iatrogenic[relating to illness caused by medical examination or treatment] 1-15 stenting and possible jailing of the diagonal , so he was started on heparin drip and treated for heart attack .
+3 this was thought to be iatrogenic[relating to illness caused by medical examination or treatment] 1-15 stenting and possible jailing of the diagonal , so you were started on heparin drip and treated for stemi[st elevation myocardial infarction] .
+4 this was thought to be iatrogenic[relating to illness caused by medical examination or treatment] 1-15 stenting and possible jailing of the diagonal , so you were started on heparin drip and treated for heart attack .
+
+as acs and pe were ruled out , bb , statin , heparin were discontinued .
+1 as acs[acute chest syndrome] and pe[pulmonary embolism] were ruled out , bb , statin , heparin were discontinued .
+2 as acs[acute chest syndrome] and lung blood clot were ruled out , bb , statin , heparin were discontinued .
+3 as acs[acute chest syndrome] and pe[pulmonary embolism] were ruled out , bb[bed bath] , statin , heparin were discontinued .
+4 as acs[acute chest syndrome] and lung blood clot were ruled out , bb[bed bath] , statin , heparin were discontinued .
+
+patient and his family have expressed an interest in getting his follow up care in nh , closer to home .
+1 patient and his family have expressed an interest in getting his follow up care in nh[nursing home] , closer to home .
+1 patient and his family have expressed an interest in getting his follow up care in nh[nursing home] , closer to home .
+3 you and your family have expressed an interest in getting his follow up care in nh[nursing home] , closer to home .
+3 you and your family have expressed an interest in getting his follow up care in nh[nursing home] , closer to home .
+
+pt is refusing intubation but according to her hcp she is a full code .
+1 pt[patient] is refusing intubation but according to her hcp[health care provider] she is a full code .
+1 pt[patient] is refusing intubation but according to her hcp[health care provider] she is a full code .
+3 you are refusing intubation but according to your hcp[health care provider] you are a full code .
+3 you are refusing intubation but according to your hcp[health care provider] you are a full code .
+
+a large volume of bloody fluid was removed from the abdomen , but active bleeding was not seen .
+1 a large volume of bloody fluid was removed from the abdomen , but active bleeding was not seen .
+1 a large volume of bloody fluid was removed from the abdomen , but active bleeding was not seen .
+3 a large volume of bloody fluid was removed from the abdomen , but active bleeding was not seen .
+3 a large volume of bloody fluid was removed from the abdomen , but active bleeding was not seen .
+
+after a one day stay in the ccu where she was diuresed and weaned of bipap to a 70 % facemask , she was transferred back to the floor on 10-30 .
+1 after a one day stay in the ccu[coronary care unit] where she was diuresed and weaned of bipap[bilaterally equal] to a 70 % facemask , she was transferred back to the floor on 10-30 .
+2 after a one day stay in the critical care unit where she was diuresed and weaned of ventilator to a 70 % facemask , she was transferred back to the floor on 10-30 .
+3 after a one day stay in the ccu[coronary care unit] where she was diuresed and weaned of bipap[bilaterally equal] to a 70 % facemask , she was transferred back to the floor on 10-30 .
+4 after a one day stay in the critical care unit where she was diuresed and weaned of ventilator to a 70 % facemask , she was transferred back to the floor on 10-30 .
+
+he had similar palpitations 6 months after his mi/cath in 2146 , that resolved spontaneously .
+1 he had similar abnormal heartbeat 6 months after his mi[myocardial infarction]/cath[catheter] in 2146 , that resolved spontaneously .
+2 he had similar abnormal heartbeat 6 months after his heart attack and cath[catheter] in 2146 , that resolved spontaneously .
+3 you had similar abnormal heartbeat 6 months after your mi[myocardial infarction]/cath[catheter] in 2146 , that resolved spontaneously .
+4 you had similar abnormal heartbeat 6 months after your heart attack and cath[catheter] in 2146 , that resolved spontaneously .
+
+a rectal tube was placed resulting in a large bowel movement and a decrease in his abdominal distention .
+1 a rectal tube was placed resulting in a large bowel movement and a decrease in his abdominal distention .
+1 a rectal tube was placed resulting in a large bowel movement and a decrease in his abdominal distention .
+3 a rectal tube was placed resulting in a large bowel movement and a decrease in his abdominal distention .
+3 a rectal tube was placed resulting in a large bowel movement and a decrease in his abdominal distention .
+
+responded well to esmolol drip in the icu with improvement in rate control to 80s .
+1 responded well to esmolol drip in the icu[intensive care unit] with improvement in rate control to 80s .
+1 responded well to esmolol drip in the icu[intensive care unit] with improvement in rate control to 80s .
+3 responded well to esmolol drip in the icu[intensive care unit] with improvement in rate control to 80s .
+3 responded well to esmolol drip in the icu[intensive care unit] with improvement in rate control to 80s .
+
+he was continued on asa and started on a statin .
+1 he was continued on asa[aspirin] and started on a statin .
+1 he was continued on asa[aspirin] and started on a statin .
+3 you were continued on asa[aspirin] and started on a statin .
+3 you were continued on asa[aspirin] and started on a statin .
+
+pt had flat jvp and warm extremities , no evidence of tamponade .
+1 pt[patient] had flat jvp[jugular venous pressure] and warm extremities , no evidence of closure.
+1 pt[patient] had flat jvp[jugular venous pressure] and warm extremities , no evidence of closure.
+3 you had flat jvp[jugular venous pressure] and warm extremities , no evidence of closure.
+3 you had flat jvp[jugular venous pressure] and warm extremities , no evidence of closure.
+
+this gi process would explain the elevated lactate and subsequent hypotension from septic shock , though the pattern is strange and does not coincide with an ischemic pattern or any particular disease process .
+1 this gi[gastrointestinal] process would explain the elevated lactate and subsequent low blood pressure from septic shock , though the pattern is strange and does not coincide with an restriction in blood supply pattern or any particular disease process .
+2 this digestive process would explain the elevated lactate and subsequent low blood pressure from septic shock , though the pattern is strange and does not coincide with an restriction in blood supply pattern or any particular disease process .
+3 this gi[gastrointestinal] process would explain the elevated lactate and subsequent low blood pressure from septic shock , though the pattern is strange and does not coincide with an restriction in blood supply pattern or any particular disease process .
+4 this digestive process would explain the elevated lactate and subsequent low blood pressure from septic shock , though the pattern is strange and does not coincide with an restriction in blood supply pattern or any particular disease process .
+
+her steroids were managed as outlined above in sections 1 and 2 .
+1 her steroids were managed as outlined above in sections 1 and 2 .
+1 her steroids were managed as outlined above in sections 1 and 2 .
+3 your steroids were managed as outlined above in sections 1 and 2 .
+3 your steroids were managed as outlined above in sections 1 and 2 .
+
+patients white count and fevers decreased and he was afebrile at discharge .
+1 patients white count and fevers decreased and he was not feverish at discharge .
+1 patients white count and fevers decreased and he was not feverish at discharge .
+3 your white count and fevers decreased and you were not feverish at discharge .
+3 your white count and fevers decreased and you were not feverish at discharge .
+
+# likely aspiration pneumonia vs pneumonitis : patient had a history of dysphagia and aspiration pneumonia presenting with mildly elevated wbc , low grade temperature and hypoxia .
+1 # likely aspiration lungs infection versus inflammation of lung tissue : patient had a history of swallowing difficulties and aspiration lungs infection presenting with mildly elevated wbc[white blood cell] , low grade temperature and deficiency of oxygen .
+1 # likely aspiration lungs infection versus inflammation of lung tissue : patient had a history of swallowing difficulties and aspiration lungs infection presenting with mildly elevated wbc[white blood cell] , low grade temperature and deficiency of oxygen .
+3 # likely aspiration lungs infection versus inflammation of lung tissue : you had a history of swallowing difficulties and aspiration lungs infection presenting with mildly elevated wbc[white blood cell] , low grade temperature and deficiency of oxygen .
+3 # likely aspiration lungs infection versus inflammation of lung tissue : you had a history of swallowing difficulties and aspiration lungs infection presenting with mildly elevated wbc[white blood cell] , low grade temperature and deficiency of oxygen .
+
+her sao2 responded to 6l fm and her breathing became more comfortable .
+1 her sao2[oxygen saturation ] responded to 6l fm and her breathing became more comfortable .
+1 her sao2[oxygen saturation ] responded to 6l fm and her breathing became more comfortable .
+3 her sao2[oxygen saturation ] responded to 6l fm and her breathing became more comfortable .
+3 her sao2[oxygen saturation ] responded to 6l fm and her breathing became more comfortable .
+
+foley d/c 'd , diet well tolerated and pain well controlled .
+1 foley d/c[discontinue] 'd , diet well tolerated and pain well controlled .
+1 foley d/c[discontinue] 'd , diet well tolerated and pain well controlled .
+3 foley d/c[discontinue] 'd , diet well tolerated and pain well controlled .
+3 foley d/c[discontinue] 'd , diet well tolerated and pain well controlled .
+
+according to ems , during entire transport , she was nonverbal and nonresponsive .
+1 according to ems[emergency medical service(s)] , during entire transport , she was nonverbal and nonresponsive .
+1 according to ems[emergency medical service(s)] , during entire transport , she was nonverbal and nonresponsive .
+3 according to ems[emergency medical service(s)] , during entire transport , you were nonverbal and nonresponsive .
+3 according to ems[emergency medical service(s)] , during entire transport , you were nonverbal and nonresponsive .
+
+azithromycin was stopped and levofloxacin was started on 1-28 and should be continued for 10 days .
+1 azithromycin was stopped and levofloxacin was started on 1-28 and should be continued for 10 days .
+1 azithromycin was stopped and levofloxacin was started on 1-28 and should be continued for 10 days .
+3 azithromycin was stopped and levofloxacin was started on 1-28 and should be continued for 10 days .
+3 azithromycin was stopped and levofloxacin was started on 1-28 and should be continued for 10 days .
+
+known lastname 28272 is a 63 year-old man with paf , pvd , hld , htn and osa with complaint of several months of exertional chest pain and dyspnea .
+1 patient is a 63 year-old man with paf[paroxysmal atrial fibrillation] , pvd[peripheral vascular disease] , hld[hyperlipidemia] , htn[hypertension] and osa[obstructive sleep apnea] with complaint of several months of exertional chest pain and shortness of breath .
+2 patient is a 63 year-old man with abnormal heart rhythms , vascular disease , high blood fats , high blood pressure and breathe pause during sleeping with complaint of several months of exertional chest pain and shortness of breath .
+3 patient is a 63 year-old man with paf[paroxysmal atrial fibrillation] , pvd[peripheral vascular disease] , hld[hyperlipidemia] , htn[hypertension] and osa[obstructive sleep apnea] with complaint of several months of exertional chest pain and shortness of breath .
+4 patient is a 63 year-old man with abnormal heart rhythms , vascular disease , high blood fats , high blood pressure and breathe pause during sleeping with complaint of several months of exertional chest pain and shortness of breath .
+
+he is scheduled for close follow-up for rfa for his recently diagnosed hcc .
+1 he is scheduled for close follow-up for rfa[radiofrequency ablation] for his recently diagnosed hcc[hepatocellular carcinoma] .
+2 he is scheduled for close follow-up for laser therapy for his recently diagnosed liver cancer .
+3 you were scheduled for close follow-up for rfa[radiofrequency ablation] for your recently diagnosed hcc[hepatocellular carcinoma] .
+4 you were scheduled for close follow-up for laser therapy for your recently diagnosed liver cancer .
+
+right hallux -- during the admission , after his acute issues had resolved , mr .
+1 right big toe -- during the admission , after his acute issues had resolved , mr .
+1 right big toe -- during the admission , after his acute issues had resolved , mr .
+3 right big toe -- during the admission , after your acute issues had resolved , mr .
+3 right big toe -- during the admission , after your acute issues had resolved , mr .
+
+an echo performed revealed mvp with severe mr . at the request of the family the pt is transferred to hospital3 .
+1 an echo performed revealed mvp[mitral valve prolapse] with severe mr[mitral regurgitation] . at the request of the family the pt[patient] is transferred to hospital3 .
+2 an echo performed revealed severe heart disease . at the request of the family the pt[patient] is transferred to hospital3 .
+3 an echo performed revealed mvp[mitral valve prolapse] with severe mr[mitral regurgitation] . at the request of your family you are transferred to hospital3 .
+4 an echo performed revealed severe heart disease . at the request of your family you are transferred to hospital3 .
+
+she is s/p icd placement with episodes of icd firing .
+1 she is s/p[status post] icd[implantable cardioverter-defibrillator] placement with episodes of icd[implantable cardioverter-defibrillator] firing .
+2 she is after icd[implantable cardioverter-defibrillator] placement with episodes of icd[implantable cardioverter-defibrillator] firing .
+3 you are s/p[status post] icd[implantable cardioverter-defibrillator] placement with episodes of icd[implantable cardioverter-defibrillator] firing .
+4 you are after icd[implantable cardioverter-defibrillator] placement with episodes of icd[implantable cardioverter-defibrillator] firing .
+
+lp performed 1-1 showed no evidence of infection .
+1 lp[lumbar puncture] performed 1-1 showed no evidence of infection .
+2 spinal tap performed 1-1 showed no evidence of infection .
+3 lp[lumbar puncture] performed 1-1 showed no evidence of infection .
+4 spinal tap performed 1-1 showed no evidence of infection .
+
+his trach was replaced in the ed , and he was subsequently discharged .
+1 his trach was replaced in the ed[emergency department] , and he was subsequently discharged .
+1 his trach was replaced in the ed[emergency department] , and he was subsequently discharged .
+3 your trach was replaced in the ed[emergency department] , and he was subsequently discharged .
+3 your trach was replaced in the ed[emergency department] , and he was subsequently discharged .
+
+ekg showed aflutter with ventricular rate in the 60s .
+1 ekg[electrocardiogram] showed aflutter with ventricular rate in the 60s .
+1 ekg[electrocardiogram] showed aflutter with ventricular rate in the 60s .
+3 ekg[electrocardiogram] showed aflutter with ventricular rate in the 60s .
+3 ekg[electrocardiogram] showed aflutter with ventricular rate in the 60s .
+
+patient was 92 % on ra when seen by ems and started on 2l nc .
+1 patient was 92 % on ra[room air] when seen by ems[emergency medical service] and started on 2l nc[nasal cannula] .
+2 patient was 92 % on ra[room air] when seen by ems[emergency medical service] and started on 2l tube insertation on nose .
+3 you were 92 % on ra[room air] when seen by ems[emergency medical service] and started on 2l nc[nasal cannula] .
+4 you were 92 % on ra[room air] when seen by ems[emergency medical service] and started on 2l tube insertation on nose .
+
+came to ed today because granddaughter called his cardiologist who recommended evaluation .
+1 came to ed[emergency department] today because granddaughter called his cardiologist who recommended evaluation .
+1 came to ed[emergency department] today because granddaughter called his cardiologist who recommended evaluation .
+3 came to ed[emergency department] today because granddaughter called your cardiologist who recommended evaluation .
+3 came to ed[emergency department] today because granddaughter called your cardiologist who recommended evaluation .
+
+vs prior to transfer 97.7 , pulse : 87 , rr : 16 ,
+1 vs[vital signs] prior to transfer 97.7 , pulse : 87 , rr[respiratory rate] : 16 ,
+2 vs[vital signs] prior to transfer 97.7 , pulse : 87 , breathing rate : 16 ,
+3 vs[vital signs] prior to transfer 97.7 , pulse : 87 , rr[respiratory rate] : 16 ,
+4 vs[vital signs] prior to transfer 97.7 , pulse : 87 , breathing rate : 16 ,
+
+58 yo f otherwise healthy p/w black tarry stools one day prior to admission .
+1 58 yo[year old] f[female] otherwise healthy p/w[have] black tarry stools one day prior to admission .
+1 58 yo[year old] f[female] otherwise healthy p/w[have] black tarry stools one day prior to admission .
+3 58 yo[year old] f[female] otherwise healthy p/w[have] black tarry stools one day prior to admission .
+3 58 yo[year old] f[female] otherwise healthy p/w[have] black tarry stools one day prior to admission .
+
+was given 2mg iv ativan and intubated for airway protection .
+1 she was given 2mg iv[intravenous] ativan and used ventilator for airway protection .
+1 she was given 2mg iv[intravenous] ativan and used ventilator for airway protection .
+3 you were given 2mg iv[intravenous] ativan and used ventilator for airway protection .
+3 you were given 2mg iv[intravenous] ativan and used ventilator for airway protection .
+
+cardiology had been consulted and pt started on slow amiodarone load and uptitration of nodal agents ; he persisted through this and was getting more hypotense to low 100 's , so was transferred to cardiology service where he was more aggressively loaded with amiodarone 400 tid for a total of one week , with plan to decrease to 400 daily thereafter .
+1 cardiology had been consulted and pt[patient] started on slow amiodarone load and uptitration of nodal agents ; he persisted through this and was getting more low blood pressure to low 100 's , so was transferred to cardiology service where he was more aggressively loaded with amiodarone 400 tid[three times a day] for a total of one week , with plan to decrease to 400 daily thereafter .
+1 cardiology had been consulted and pt[patient] started on slow amiodarone load and uptitration of nodal agents ; he persisted through this and was getting more low blood pressure to low 100 's , so was transferred to cardiology service where he was more aggressively loaded with amiodarone 400 tid[three times a day] for a total of one week , with plan to decrease to 400 daily thereafter .
+3 cardiology had been consulted and you started on slow amiodarone load and uptitration of nodal agents ; you persisted through this and were getting more low blood pressure to low 100 's , so were transferred to cardiology service where you were more aggressively loaded with amiodarone 400 tid[three times a day] for a total of one week , with plan to decrease to 400 daily thereafter .
+3 cardiology had been consulted and you started on slow amiodarone load and uptitration of nodal agents ; you persisted through this and were getting more low blood pressure to low 100 's , so were transferred to cardiology service where you were more aggressively loaded with amiodarone 400 tid[three times a day] for a total of one week , with plan to decrease to 400 daily thereafter .
+
+liver was consulted and performed emergent endoscopy for concern for variceal bleed .
+1 liver was consulted and performed emergent endoscopy[insertion of a tube] for concern for variceal bleed .
+1 liver was consulted and performed emergent endoscopy[insertion of a tube] for concern for variceal bleed .
+3 liver was consulted and performed emergent endoscopy[insertion of a tube] for concern for variceal bleed .
+3 liver was consulted and performed emergent endoscopy[insertion of a tube] for concern for variceal bleed .
+
+in the ed , he was aggressively treated with calcium gluconate , insulin , sodium bicaronate , and kayexelate .
+1 in the ed[emergency department] , he was aggressively treated with calcium gluconate , insulin , sodium bicaronate , and kayexelate .
+1 in the ed[emergency department] , he was aggressively treated with calcium gluconate , insulin , sodium bicaronate , and kayexelate .
+3 in the ed[emergency department] , you were aggressively treated with calcium gluconate , insulin , sodium bicaronate , and kayexelate .
+3 in the ed[emergency department] ,you were aggressively treated with calcium gluconate , insulin , sodium bicaronate , and kayexelate .
+
+because of intermittent bradycardia , this was changed to a nicardipine drip while po captopril was started .
+1 because of occasional too slow heart rate , this was changed to a nicardipine drip while po[by mouth] captopril was started .
+1 because of occasional too slow heart rate , this was changed to a nicardipine drip while po[by mouth] captopril was started .
+3 because of occasional too slow heart rate , this was changed to a nicardipine drip while po[by mouth] captopril was started .
+3 because of occasional too slow heart rate , this was changed to a nicardipine drip while po[by mouth] captopril was started .
+
+known lastname 59201 was admitted to the hospital1 18 on 2118-9-13 for surgical management of his aortic valve disease .
+1 patient 59201 was admitted to the hospital1 18 on 2118-9-13 for surgical management of his heart artery valve disease[heart valve disease] .
+1 patient 59201 was admitted to the hospital1 18 on 2118-9-13 for surgical management of his heart artery valve disease[heart valve disease] .
+3 patient 59201 was admitted to the hospital1 18 on 2118-9-13 for surgical management of his heart artery valve disease[heart valve disease] .
+3 patient 59201 was admitted to the hospital1 18 on 2118-9-13 for surgical management of his heart artery valve disease[heart valve disease] .
+
+neurologically he has been doing well working with pt/ot and speech therapy at hospital3 .
+1 neurologically he has been doing well working with pt[physical therapy ]/ot[occupational therapy] and speech therapy at hospital3 .
+1 neurologically he has been doing well working with pt[physical therapy ]/ot[occupational therapy] and speech therapy at hospital3 .
+3 neurologically you have been doing well working with pt[physical therapy ]/ot[occupational therapy] and speech therapy at hospital3 .
+3 neurologically you have been doing well working with pt[physical therapy ]/ot[occupational therapy] and speech therapy at hospital3 .
+
+bystanders found him to be unresponsive/pulseless and initiated cpr for 10 minutes .
+1 bystanders found him to be unresponsive/pulseless and initiated cpr[cardiopulmonary resuscitation] for 10 minutes .
+1 bystanders found him to be unresponsive/pulseless and initiated cpr[cardiopulmonary resuscitation] for 10 minutes .
+3 bystanders found you to be unresponsive/pulseless and initiated cpr[cardiopulmonary resuscitation] for 10 minutes .
+3 bystanders found you to be unresponsive/pulseless and initiated cpr[cardiopulmonary resuscitation] for 10 minutes .
+
+pt admitted from ed with type b aortic dissection , uncontrolled hypertension and pain .
+1 pt[patient] admitted from ed[emergency department] with type b heart artery dissection , uncontrolled high blood pressure and pain .
+1 pt[patient] admitted from ed[emergency department] with type b heart artery dissection , uncontrolled high blood pressure and pain .
+3 you admitted from ed[emergency department] with type b heart artery dissection , uncontrolled high blood pressure and pain .
+3 you admitted from ed[emergency department] with type b heart artery dissection , uncontrolled high blood pressure and pain .
+
+po meds were held except midodrine which he was tolerating by end of icu stay .
+1 po[oral] meds[medicine] were held except midodrine which he was tolerating by end of icu[intensive care unit] stay .
+1 po[oral] meds[medicine] were held except midodrine which he was tolerating by end of icu[intensive care unit] stay .
+3 po[oral] meds[medicine] were held except midodrine which you were tolerating by end of icu[intensive care unit] stay .
+3 po[oral] meds[medicine] were held except midodrine which you were tolerating by end of icu[intensive care unit] stay .
+
+thoracentesis fluid cx was negative and effusions improved clinically with normal sats on ra on discharge .
+1 lung swells cx[culture] was negative and effusions improved clinically with normal sats on ra[room air] on discharge .
+1 lung swells cx[culture] was negative and effusions improved clinically with normal sats on ra[room air] on discharge .
+3 lung swells cx[culture] was negative and effusions improved clinically with normal sats on ra[room air] on discharge .
+3 lung swells cx[culture] was negative and effusions improved clinically with normal sats on ra[room air] on discharge .
+
+he was given a 2nd mg of atropine because his hr was still in the 50s ; and started on fentanyl gtt and versed for sedation .
+1 he was given a 2nd mg of atropine because his hr[heart rate] was still in the 50s ; and started on fentanyl gtt[drop] and versed for sedation .
+1 he was given a 2nd mg of atropine because his hr[heart rate] was still in the 50s ; and started on fentanyl gtt[drop] and versed for sedation .
+3 you were given a 2nd mg of atropine because your hr[heart rate] was still in the 50s ; and started on fentanyl gtt[drop] and versed for sedation .
+3 you were given a 2nd mg of atropine because your hr[heart rate] was still in the 50s ; and started on fentanyl gtt[drop] and versed for sedation .
+
+he was also started on gabapentin , titrated to 300mg tid .
+1 he was also started on gabapentin , titrated to 300mg tid[three times a day] .
+1 he was also started on gabapentin , titrated to 300mg tid[three times a day] .
+3 you were also started on gabapentin , titrated to 300mg tid[three times a day] .
+3 you were also started on gabapentin , titrated to 300mg tid[three times a day] .
+
+after recovering in the pacu , she was tranferred to the sicu and the ob team followed in her care .
+1 after recovering in the pacu[post-anesthesia care unit] , she was tranferred to the sicu[surgical intensive care unit] and the ob[occult blood] team followed in her care .
+1 after recovering in the pacu[post-anesthesia care unit] , she was tranferred to the sicu[surgical intensive care unit] and the ob[occult blood] team followed in her care .
+3 after recovering in the pacu[post-anesthesia care unit] , you were tranferred to the sicu[surgical intensive care unit] and the ob[occult blood] team followed in your care .
+3 after recovering in the pacu[post-anesthesia care unit] , you were tranferred to the sicu[surgical intensive care unit] and the ob[occult blood] team followed in your care .
+
+overnight , she c/o some mild l sided chest pain with no other symptoms .
+1 overnight , she c/o[complains of] some mild l[left] sided chest pain with no other symptoms .
+1 overnight , she c/o[complains of] some mild l[left] sided chest pain with no other symptoms .
+3 overnight , you c/o[complains of] some mild l[left] sided chest pain with no other symptoms .
+3 overnight , you c/o[complains of] some mild l[left] sided chest pain with no other symptoms .
+
+cardiology was consulted and determined that cath was not indicated at this time given recent gi bleed .
+1 heart doctor was consulted and determined that cath[catheter] was not indicated at this time given recent gi[gastrointestinal] bleed .
+1 heart doctor was consulted and determined that cath[catheter] was not indicated at this time given recent gi[gastrointestinal] bleed .
+3 heart doctor was consulted and determined that cath[catheter] was not indicated at this time given recent gi[gastrointestinal] bleed .
+3 heart doctor was consulted and determined that cath[catheter] was not indicated at this time given recent gi[gastrointestinal] bleed .
+
+she went to her pcp 's office today who noted an inability to tolerate sips of water , a bp of 92/50 , hr of 105 , so she was sent to the ed for evaluation for possible dka .
+1 she went to her pcp[primary care provider] 's office today who noted an inability to tolerate sips of water , a bp[blood pressure] of 92/50 , hr[heart rate] of 105 , so she was sent to the ed[emergency department] for evaluation for possible dka[diabetic ketoacidosis] .
+2 she went to her pcp[primary care provider] 's office today who noted an inability to tolerate sips of water , a bp[blood pressure] of 92/50 , hr[heart rate] of 105 , so she was sent to the ed[emergency department] for evaluation for possible serious complication of diabetes .
+3 you went to her pcp[primary care provider] 's office today who noted an inability to tolerate sips of water , a bp[blood pressure] of 92/50 , hr[heart rate] of 105 , so you were sent to the ed[emergency department] for evaluation for possible dka[diabetic ketoacidosis] .
+4 you went to her pcp[primary care provider] 's office today who noted an inability to tolerate sips of water , a bp[blood pressure] of 92/50 , hr[heart rate] of 105 , so you were sent to the ed[emergency department] for evaluation for possible serious complication of diabetes .
+
+her complaints of r arm pain had improved as did the strength in her r arm .
+1 her complaints of r[right] arm pain had improved as did the strength in her r[right] arm .
+1 her complaints of r[right] arm pain had improved as did the strength in her r[right] arm .
+3 your complaints of r[right] arm pain had improved as did the strength in your r[right] arm .
+3 your complaints of r[right] arm pain had improved as did the strength in your r[right] arm .
+
+6.htn - restarted lisinopril , bblocker once bp was stable .
+1 6.htn[hypertension] - restarted lisinopril , bblocker once bp[blood pressure] was stable .
+2 6.high blood pressure - restarted lisinopril , bblocker[beta blockers treat high blood pressure] once bp[blood pressure] was stable .
+3 6.htn[hypertension] - restarted lisinopril , bblocker once bp[blood pressure] was stable .
+4 6.high blood pressure - restarted lisinopril , bblocker[beta blockers treat high blood pressure] once bp[blood pressure] was stable .
+
+during the time in the ed , it was noted that her right neck appeared hospital1 2824 .
+1 during the time in the ed[erectile dysfunction] , it was noted that her right neck appeared hospital1 2824 .
+1 during the time in the ed[erectile dysfunction] , it was noted that her right neck appeared hospital1 2824 .
+3 during the time in the ed[erectile dysfunction] , it was noted that your right neck appeared hospital1 2824 .
+3 during the time in the ed[erectile dysfunction] , it was noted that your right neck appeared hospital1 2824 .
+
+patient admitted to hospital1 18 and underwent a cardiac cath which revealed lmca and 2 vessel disease .
+1 patient admitted to hospital1 18 and underwent a heart cath[catheter] which revealed lmca[left main coronary artery] and 2 vessel disease .
+2 patient admitted to hospital1 18 and underwent a heart cath[catheter] which revealed left main heart artery and 2 vessel disease .
+3 patient admitted to hospital1 18 and underwent a heart cath[catheter] which revealed lmca[left main coronary artery] and 2 vessel disease .
+4 patient admitted to hospital1 18 and underwent a heart cath[catheter] which revealed left main heart artery and 2 vessel disease .
+
+evaluated by vascular surgery in ed , who felt that his rle was non-threatened and no surgical intervention was required .
+1 evaluated by vascular surgery in ed[emergency department] , who felt that his rle[right lower extremity] was non-threatened and no surgical intervention was required .
+2 evaluated by vascular surgery in ed[emergency department] , who felt that his right leg was non-threatened and no surgical intervention was required .
+3 evaluated by vascular surgery in ed[emergency department] , you felt that your rle[right lower extremity] was non-threatened and no surgical intervention was required .
+4 evaluated by vascular surgery in ed[emergency department] , you felt that your right leg was non-threatened and no surgical intervention was required .
+
+fentanyl patch and morphine was restarted when his ms improved .
+1 fentanyl patch and morphine was restarted when his ms[mental status] improved .
+1 fentanyl patch and morphine was restarted when his ms[mental status] improved .
+3 fentanyl patch and morphine was restarted when your ms[mental status] improved .
+3 fentanyl patch and morphine was restarted when your ms[mental status] improved .
+
+before he got a chance to take his high-dose prednisone , he decided to come to the ed .
+1 before he got a chance to take his high-dose prednisone , he decided to come to the ed[emergency department] .
+1 before he got a chance to take his high-dose prednisone , he decided to come to the ed[emergency department] .
+3 before you got a chance to take his high-dose prednisone , you decided to come to the ed[emergency department] .
+3 before you got a chance to take his high-dose prednisone , you decided to come to the ed[emergency department] .
+
+this was complicated by r mainstem intubation revealed on cxr which was then pulled back intro trachea .
+1 this was complicated by r[right] mainstem intubation revealed on cxr[chest x-ray] which was then pulled back intro trachea .
+1 this was complicated by r[right] mainstem intubation revealed on cxr[chest x-ray] which was then pulled back intro trachea .
+3 this was complicated by r[right] mainstem intubation revealed on cxr[chest x-ray] which was then pulled back intro trachea .
+3 this was complicated by r[right] mainstem intubation revealed on cxr[chest x-ray] which was then pulled back intro trachea .
+
+arrived to the ed minimally responsive w/ no evidence of trauma .
+1 arrived to the ed[emergency department] minimally responsive w/[with] no evidence of trauma .
+1 arrived to the ed[emergency department] minimally responsive w/[with] no evidence of trauma .
+3 arrived to the ed[emergency department] minimally responsive w/[with] no evidence of trauma .
+3 arrived to the ed[emergency department] minimally responsive w/[with] no evidence of trauma .
+
+# stage iii nsclc with brain mets : continued levetiracetam , dexamethasone , prn oxycodone .
+1 # stage iii nsclc[non-small-cell lung carcinoma] with brain mets : continued seizures medicines , dexamethasone , prn[as necessary] oxycodone .
+2 # stage iii epithelial lung cancer with brain mets : continued seizures medicines , dexamethasone , prn[as necessary] oxycodone .
+3 # stage iii nsclc[non-small-cell lung carcinoma] with brain mets : continued seizures medicines , dexamethasone , prn[as necessary] oxycodone .
+4 # stage iii epithelial lung cancer with brain mets : continued seizures medicines , dexamethasone , prn[as necessary] oxycodone .
+
+underwent urgent surgery.iv heparization began in the emergency roo .
+1 underwent urgent surgery . iv[intravenous] heparization began in the emergency room .
+1 underwent urgent surgery . iv[intravenous] heparization began in the emergency room .
+3 underwent urgent surgery . iv[intravenous] heparization began in the emergency room .
+3 underwent urgent surgery . iv[intravenous] heparization began in the emergency room .
+
+upon arrival to hospital1 18 in the ed the patient reported 3-25 chest pain and his ekg was notable for st depressions in v1-v3 .
+1 upon arrival to hospital1 18 in the ed[emergency department] the patient reported 3-25 chest pain and his ekg[electrocardiogram] was notable for finding on an electrocardiogram in v1-v3[waves] .
+2 upon arrival to hospital1 18 in the ed[emergency department] the patient reported 3-25 chest pain and his heart electrical activity detection was notable for finding on an heart electrical activity detection in v1-v3[waves] .
+3 upon arrival to hospital1 18 in the ed[emergency department] the patient reported 3-25 chest pain and your ekg[electrocardiogram] was notable for finding on an electrocardiogram in v1-v3[waves] .
+4 upon arrival to hospital1 18 in the ed[emergency department] the patient reported 3-25 chest pain and your heart electrical activity detection was notable for finding on an heart electrical activity detection in v1-v3[waves] .
+
+tried iv amiodarone load , but without change from aflutter in 140s , discontinued amiodarone after the load and went back to metoprolol for rate control , with doses varying from 75 tid to 100 qid , with caution regarding bp ( mostly sbp 100-130 ) and concern for potential to throw a clot if converted to sinus given not anticoagulating in setting of gi bleed .
+1 tried iv[intravenous] amiodarone load , but without change from aflutter in 140s , discontinued amiodarone after the load and went back to metoprolol for rate control , with doses varying from 75 tid[three times a day] to 100 qid[four times a day] , with caution regarding bp[blood pressure] ( mostly sbp[systolic blood pressure] 100-130 ) and concern for potential to throw a clot if converted to sinus given not anticoagulating in setting of gi[gastrointestinal] bleed .
+2 tried by vein amiodarone load , but without change from aflutter in 140s , discontinued amiodarone after the load and went back to metoprolol for rate control , with doses varying from 75 tid[three times a day] to 100 qid[four times a day] , with caution regarding bp[blood pressure] ( mostly sbp[systolic blood pressure] 100-130 ) and concern for potential to throw a clot if converted to sinus given not anticoagulating in setting of digestive system bleed .
+3 tried iv[intravenous] amiodarone load , but without change from aflutter in 140s , discontinued amiodarone after the load and went back to metoprolol for rate control , with doses varying from 75 tid[three times a day] to 100 qid[four times a day] , with caution regarding bp[blood pressure] ( mostly sbp[systolic blood pressure] 100-130 ) and concern for potential to throw a clot if converted to sinus given not anticoagulating in setting of gi[gastrointestinal] bleed .
+4 tried by vein amiodarone load , but without change from aflutter in 140s , discontinued amiodarone after the load and went back to metoprolol for rate control , with doses varying from 75 tid[three times a day] to 100 qid[four times a day] , with caution regarding bp[blood pressure] ( mostly sbp[systolic blood pressure] 100-130 ) and concern for potential to throw a clot if converted to sinus given not anticoagulating in setting of digestive system bleed .
+
+70 yo man with remote hx ugib , known diverticulosis who presented with brbpr at home and proceeded to have multiple episodes in-house with significant hct drop 1 ) lower gi bleed secondary to diverticulosis several episodes brbpr ( 7-9 ) on admission to the floor , noted to have hct drop from 41 -- > 36.6 as well as syncopal episode .
+170 yo[year old] man with remote hx[history] ugib[upper gastrointestinal bleeding] , known diverticulosis who presented with brbpr[bright red blood per rectum] at home and proceeded to have multiple episodes in-house with significant hct[hematocrit] drop 1 ) lower gi[gastrointestinal] bleed secondary to diverticulosis several episodes brbpr[bright red blood per rectum] ( 7-9 ) on admission to the floor , noted to have hct[hematocrit] drop from 41 -- > 36.6 as well as syncopal episode .
+2 70 yo[year old] man with remote hx[history] ugib[upper gastrointestinal bleeding] , known diverticulosis who presented with brbpr[bright red blood per rectum] at home and proceeded to have multiple episodes in-house with significant hct[hematocrit] drop 1 ) lower digestive track bleed secondary to diverticulosis several episodes brbpr[bright red blood per rectum] ( 7-9 ) on admission to the floor , noted to have hct[hematocrit] drop from 41 -- > 36.6 as well as syncopal episode .
+3 70 yo[year old] man with remote hx[history] ugib[upper gastrointestinal bleeding] , known diverticulosis who presented with brbpr[bright red blood per rectum] at home and proceeded to have multiple episodes in-house with significant hct[hematocrit] drop 1 ) lower gi[gastrointestinal] bleed secondary to diverticulosis several episodes brbpr[bright red blood per rectum] ( 7-9 ) on admission to the floor , noted to have hct[hematocrit] drop from 41 -- > 36.6 as well as syncopal episode .
+4 70 yo[year old] man with remote hx[history] ugib[upper gastrointestinal bleeding] , known diverticulosis who presented with brbpr[bright red blood per rectum] at home and proceeded to have multiple episodes in-house with significant hct[hematocrit] drop 1 ) lower digestive track bleed secondary to diverticulosis several episodes brbpr[bright red blood per rectum] ( 7-9 ) on admission to the floor , noted to have hct[hematocrit] drop from 41 -- > 36.6 as well as syncopal episode .
+
+in the micu a noncontrast ct spine was obtained and was concerning for new fracture above the level of instrumentation .
+1 in the micu[medical intensive care unit] a noncontrast ct[computed tomography] spine was obtained and was concerning for new fracture above the level of instrumentation .
+1 in the micu[medical intensive care unit] a noncontrast ct[computed tomography] spine was obtained and was concerning for new fracture above the level of instrumentation .
+3 in the micu[medical intensive care unit] a noncontrast ct[computed tomography] spine was obtained and was concerning for new fracture above the level of instrumentation .
+3 in the micu[medical intensive care unit] a noncontrast ct[computed tomography] spine was obtained and was concerning for new fracture above the level of instrumentation .
+
+pod # 0-remained in pacu 2166-12-29 overnight for brief neo administration , volume resuscitation , 1u prbc , and observation .
+1 pod[postoperative days] # 0-remained in pacu[post-anesthesia care unit] 2166-12-29 overnight for brief neo[neoplasm] administration , volume resuscitation , 1u[unit] prbc[packed red blood cells] , and observation .
+1 pod[postoperative days] # 0-remained in pacu[post-anesthesia care unit] 2166-12-29 overnight for brief neo[neoplasm] administration , volume resuscitation , 1u[unit] prbc[packed red blood cells] , and observation .
+3 pod[postoperative days] # 0-remained in pacu[post-anesthesia care unit] 2166-12-29 overnight for brief neo[neoplasm] administration , volume resuscitation , 1u[unit] prbc[packed red blood cells] , and observation .
+3 pod[postoperative days] # 0-remained in pacu[post-anesthesia care unit] 2166-12-29 overnight for brief neo[neoplasm] administration , volume resuscitation , 1u[unit] prbc[packed red blood cells] , and observation .
+
+86yo m w/hx of scc s/p xrt who presents with shortness of breath , hypoxia and multifocal pna .
+1 86yo[year old] m[male] w/hx[with history of] of scc[squamous cell carcinoma] s/p[status post] xrt[radiotherapy used in cancer treatment] who presents with shortness of breath , oxygen deficiency in tissues and multifocal pna[pneumonia] .
+2 86yo[year old] m[male] w/hx[with history of] of scc[squamous cell carcinoma] after xrt[radiotherapy used in cancer treatment] who presents with shortness of breath , oxygen deficiency in tissues and multifocal lung infection .
+3 86yo[year old] m[male] w/hx[with history of] of scc[squamous cell carcinoma] s/p[status post] xrt[radiotherapy used in cancer treatment] who presents with shortness of breath , oxygen deficiency in tissues and multifocal pna[pneumonia] .
+4 86yo[year old] m[male] w/hx[with history of] of scc[squamous cell carcinoma] after xrt[radiotherapy used in cancer treatment] who presents with shortness of breath , oxygen deficiency in tissues and multifocal lung infection .
+
+after stabilizing in icu , off bipap and on doing well on ra he was sent to the medicine floor .
+1 after stabilizing in icu[intensive care unit] , off bipap[bilevel positive airway pressure] and on doing well on ra[right atrium] he was sent to the medicine floor .
+2 after stabilizing in icu[intensive care unit] , off device that helps with breathing and on doing well on ra[right atrium] he was sent to the medicine floor .
+3 after stabilizing in icu[intensive care unit] , off bipap[bilevel positive airway pressure] and on doing well on ra[right atrium] you were sent to the medicine floor .
+4 after stabilizing in icu[intensive care unit] , off device that helps with breathing and on doing well on ra[right atrium] you were sent to the medicine floor .
+
+she was transferred to hospital1 18 ed where ck > 200,000 and creatinine 3.0 with ua +blood , no rbcs , +muddy brown casts .
+1 she was transferred to hospital1 18 ed[emergency department] where ck[creatine kinase] > 200,000 and creatinine 3.0 with ua[urinalysis] +blood , no rbcs[red blood cells] , +presence of casts in a urine specimen .
+2 she was transferred to hospital1 18 ed[emergency department] where intracellular enzyme present > 200,000 and creatinine 3.0 with ua[urinalysis] +blood , no rbcs[red blood cells] , +presence of casts in a urine specimen .
+3 you were transferred to hospital1 18 ed[emergency department] where ck[creatine kinase] > 200,000 and creatinine 3.0 with ua[urinalysis] +blood , no rbcs[red blood cells] , +presence of casts in a urine specimen .
+4 you were transferred to hospital1 18 ed[emergency department] where intracellular enzyme present > 200,000 and creatinine 3.0 with ua[urinalysis] +blood , no rbcs[red blood cells] , +presence of casts in a urine specimen .
+
+extubated early the following morning in sr on indulin and neo drips .
+1 extubated early the following morning in sr[slow release] on indulin and neo drips .
+1 extubated early the following morning in sr[slow release] on indulin and neo drips .
+3 extubated early the following morning in sr[slow release] on indulin and neo drips .
+3 extubated early the following morning in sr[slow release] on indulin and neo drips .
+
+in the ed , the patient arrived tachypneic to the 40s , using her accessory muscles , and saturating in the 80s .
+1 in the ed[emergency department] , the patient arrived abnormally rapid breathing to the 40s , using her accessory muscles , and saturating in the 80s .
+1 in the ed[emergency department] , the patient arrived abnormally rapid breathing to the 40s , using her accessory muscles , and saturating in the 80s .
+3 in the ed[emergency department] , you arrived abnormally rapid breathing to the 40s , using your accessory muscles , and saturating in the 80s .
+3 in the ed[emergency department] , you arrived abnormally rapid breathing to the 40s , using your accessory muscles , and saturating in the 80s .
+
+by this time her or wound cultures from 2168-3-2 confirmed 'beta group a streptococcus ' and she continued on her course of ceftriaxone and clindamycin iv per id recommendations .
+1 by this time her or wound cultures from 2168-3-2 confirmed 'beta group a streptococcus ' and she continued on her course of ceftriaxone and clindamycin iv[intravenous] per id[identifying data] recommendations .
+2 by this time her or wound cultures from 2168-3-2 confirmed 'beta group a streptococcus ' and she continued on her course of ceftriaxone and clindamycin by vein per id[identifying data]  recommendations .
+3 by this time your or wound cultures from 2168-3-2 confirmed 'beta group a streptococcus ' and you continued on your course of ceftriaxone and clindamycin iv[intravenous] per id[identifying data] recommendations .
+4 by this time your or wound cultures from 2168-3-2 confirmed 'beta group a streptococcus ' and you continued on your course of ceftriaxone and clindamycin by vein per id[identifying data] recommendations .
+
+gi : pt with hx of liver disease , hepatocellular carcinoma status post month/day ( 3 ) 54267 .
+1 gi[gastrointestinal] : pt[patient] with hx[history] of liver disease , liver cancer status post month/day ( 3 ) 54267 .
+2 digestive team : pt[patient] with hx[history] of liver disease , liver cancer status post month/day ( 3 ) 54267 .
+3 gi[gastrointestinal] : you with hx[history] of liver disease , liver cancer status post month/day ( 3 ) 54267 .
+4 digestive team : you with hx[history] of liver disease , liver cancer status post month/day ( 3 ) 54267 .
+
+known lastname 26890 was admitted to ed from clinic for increasing sob .
+1 patient 26890 was admitted to ed[emergency department] from clinic for increasing sob[shortness of breath] .
+1 patient 26890 was admitted to ed[emergency department] from clinic for increasing sob[shortness of breath] .
+3 patient 26890 was admitted to ed[emergency department] from clinic for increasing sob[shortness of breath] .
+3 patient 26890 was admitted to ed[emergency department] from clinic for increasing sob[shortness of breath] .
+
+she will need 3 more weeks of iv last name ( lf ) 112289 , first name3 ( lf ) follow-up with her primary care physician last name ( namepattern4 ) 2 weeks , then with pulmonolgy in about a month ( scheduling in process at time of discharge ) .
+1 she will need 3 more weeks of iv[intravenous therapy] last name ( lf ) 112289 , first name3 ( lf ) follow-up with her primary care provider last name ( namepattern4 ) 2 weeks , then with pulmonolgy in about a month ( scheduling in process at time of discharge ) .
+1 she will need 3 more weeks of delivers fluids directly into a vein last name ( lf ) 112289 , first name3 ( lf ) follow-up with her primary care provider last name ( namepattern4 ) 2 weeks , then with pulmonolgy in about a month ( scheduling in process at time of discharge ) .
+3 you will need 3 more weeks of iv[intravenous therapy] last name ( lf ) 112289 , first name3 ( lf ) follow-up with your primary care provider last name ( namepattern4 ) 2 weeks , then with pulmonolgy in about a month ( scheduling in process at time of discharge ) .
+3 you will need 3 more weeks of iv[intravenous therapy] last name ( lf ) 112289 , first name3 ( lf ) follow-up with your primary care provider last name ( namepattern4 ) 2 weeks , then with pulmonolgy in about a month ( scheduling in process at time of discharge ) .
+
+she was diuresed aggressively for this , and will follow up with a cxr next week .
+1 she was diuresed[weak] aggressively for this , and will follow up with a cxr[chest x-ray] next week .
+1 she was diuresed[weak] aggressively for this , and will follow up with a cxr[chest x-ray] next week .
+3 you were diuresed[weak] aggressively for this , and will follow up with a cxr[chest x-ray] next week .
+3 you were diuresed[weak] aggressively for this , and will follow up with a cxr[chest x-ray] next week .
+
+# htn - elevated bp on admission , was given metoprolol in the ed without much effect , but also in setting of volume overload .
+1 # htn[hypertension] - elevated bp[blood pressure] on admission , was given metoprolol in the ed[emergency department] without much effect , but also in setting of volume overload .
+2 # high blood pressure - elevated bp[blood pressure] on admission , was given metoprolol in the ed[emergency department] without much effect , but also in setting of volume overload .
+3 # htn[hypertension] - elevated bp[blood pressure] on admission , was given metoprolol in the ed[emergency department] without much effect , but also in setting of volume overload .
+4 # high blood pressure - elevated bp[blood pressure] on admission , was given metoprolol in the ed[emergency department] without much effect , but also in setting of volume overload .
+
+he was kept npo , given iv fluids ; serial hematocrits and abdominal exams were followed closely .
+1 he was kept npo[nothing by mouth] , given iv[intravenous] fluids ; serial hematocrits and abdominal exams were followed closely .
+1 he was kept npo[nothing by mouth] , given iv[intravenous] fluids ; serial hematocrits and abdominal exams were followed closely .
+3 you were kept npo[nothing by mouth] , given iv[intravenous] fluids ; serial hematocrits and abdominal exams were followed closely .
+3 you were kept npo[nothing by mouth] , given iv[intravenous] fluids ; serial hematocrits and abdominal exams were followed closely .
+
+he was intubated at an outside hospital transferred to hospital1 18 ed .
+1 he was intubated at an outside hospital transferred to hospital1 18 ed[emergency department] .
+1 he was intubated at an outside hospital transferred to hospital1 18 ed[emergency department] .
+3 you were intubated at an outside hospital transferred to hospital1 18 ed[emergency department] .
+3 you were intubated at an outside hospital transferred to hospital1 18 ed[emergency department] .
+
+he eventually agreed to hd and tunnel cath placed by ir in r sc on 2171-4-4 .
+1 he eventually agreed to hd[hemodialysis] and tunnel cath[catheter] placed by ir[insulin resistance interventional] in r[radiology] sc[spinal cord] on 2171-4-4 .
+2 he eventually agreed to blood filtering and tunnel cath[catheter] placed by ir[insulin resistance interventional] in r[radiology] sc[spinal cord] on 2171-4-4 .
+3 you eventually agreed to hd[hemodialysis] and tunnel cath[catheter] placed by ir[insulin resistance interventional] in r[radiology] sc[spinal cord] on 2171-4-4 .
+4 you eventually agreed to blood filtering and tunnel cath[catheter] placed by ir[insulin resistance interventional] in r[radiology] sc[spinal cord] on 2171-4-4 .
+
+apparently , the pt checked this online and self-referred to the ed .
+1 apparently , the pt[patient] checked this online and self-referred to the ed[emergency department] .
+1 apparently , the pt[patient] checked this online and self-referred to the ed[emergency department] .
+3 apparently , you checked this online and self-referred to the ed[emergency department] .
+3 apparently , you checked this online and self-referred to the ed[emergency department] .
+
+pt recommended he have acute pt as an outpatient .
+1 pt[physical therapist] recommended he have acute pt[prothrombin time] as an outpatient .
+2 pt[physical therapist] recommended he have acute blood clot time test as an outpatient .
+3 pt[physical therapist] recommended you have acute pt[prothrombin time] as an outpatient .
+4 pt[physical therapist] recommended you have acute blood clot time test as an outpatient .
+
+on arrival to the ed , vs 99.8 140 136/60 26 96 % , fs : 93 .
+1 on arrival to the ed[emergency department] , vs[vital signs] 99.8 140 136/60 26 96 % , fs[flexible sigmoidoscopy] : 93 .
+1 on arrival to the ed[emergency department] , vs[vital signs] 99.8 140 136/60 26 96 % , fs[flexible sigmoidoscopy] : 93 .
+3 on arrival to the ed[emergency department] , vs[vital signs] 99.8 140 136/60 26 96 % , fs[flexible sigmoidoscopy] : 93 .
+3 on arrival to the ed[emergency department] , vs[vital signs] 99.8 140 136/60 26 96 % , fs[flexible sigmoidoscopy] : 93 .
+
+her lasix dose was increased and on 8-13 , her cxr showed a decreased l effuision .
+1 her water pill dose was increased and on 8-13 , her cxr[chest x-ray] showed a decreased l[left] effuision .
+1 her water pill dose was increased and on 8-13 , her cxr[chest x-ray] showed a decreased l[left] effuision .
+3 your water pill dose was increased and on 8-13 , your cxr[chest x-ray] showed a decreased l[left] effuision .
+3 your water pill dose was increased and on 8-13 , your cxr[chest x-ray] showed a decreased l[left] effuision .
+
+bp remained stable for the rest of her hospitalization .
+1 bp[blood pressure] remained stable for the rest of her hospitalization .
+1 bp[blood pressure] remained stable for the rest of her hospitalization .
+3 bp[blood pressure] remained stable for the rest of your hospitalization .
+3 bp[blood pressure] remained stable for the rest of your hospitalization .
+
+with aggressive pulmonary toilet , nebs , chest pt his oxygen requirements improved on 3l nasal cannula with oxygen saturations of 96-98 % .
+1 with aggressive lungs cleaning , nebs , chest pt[physical therapy] his oxygen requirements improved on 3l nasal cannula with oxygen saturations of 96-98 % .
+1 with aggressive lungs cleaning , nebs , chest pt[physical therapy] his oxygen requirements improved on 3l nasal cannula with oxygen saturations of 96-98 % .
+3 with aggressive lungs cleaning , nebs , chest pt[physical therapy] your oxygen requirements improved on 3l nasal cannula with oxygen saturations of 96-98 % .
+3 with aggressive lungs cleaning , nebs , chest pt[physical therapy] your oxygen requirements improved on 3l nasal cannula with oxygen saturations of 96-98 % .
+
+per brief discussion with hcp name ( ni ) 4457 , pt is an avid musician and plays the trumpet .
+1 per brief discussion with hcp[health care practitioner] , pt[patient] is an avid musician and plays the trumpet .
+1 per brief discussion with hcp[health care practitioner] , pt[patient] is an avid musician and plays the trumpet .
+3 per brief discussion with hcp[health care practitioner] , pt[patient] is an avid musician and plays the trumpet .
+3 per brief discussion with hcp[health care practitioner] , pt[patient] is an avid musician and plays the trumpet .
+
+she was started on vancomycin and meropenem and agressively volume resuscitated with ns ivf .
+1 she was started on vancomycin and meropenem and agressively volume resuscitated with ns[normal saline] ivf[intravenous fluids] .
+1 she was started on vancomycin and meropenem and agressively volume resuscitated with ns[normal saline] ivf[intravenous fluids] .
+3 you were started on vancomycin and meropenem and agressively volume resuscitated with ns[normal saline] ivf[intravenous fluids] .
+3 you were started on vancomycin and meropenem and agressively volume resuscitated with ns[normal saline] ivf[intravenous fluids] .
+
+61 y/o m with past multiple myeloma treated with chemo and xrt , multiple hospital admissions for pneumonia in recent months , now admitted on 7-5 for lower extremity paralysis related to spinal cord involvement , c/b upper extremity dvt , and newly found lung nodules concerning for malignancy , now s/p biopsy .
+1 61 y/o[year old] m[male] with past cancer that forms in a type of white blood cell treated with chemotherapy and xrt[radiotherapy used in cancer treatment] , multiple hospital admissions for lung infection in recent months , now admitted on 7-5 for leg paralysis related to spinal cord involvement , c/b[complicated by] arm dvt[deep vein thrombosis] , and newly found lung nodules concerning for malignancy , now s/p[status post] biopsy .
+2 61 y/o[year old] m[male] with past cancer that forms in a type of white blood cell treated with chemotherapy and xrt[radiotherapy used in cancer treatment] , multiple hospital admissions for lung infection in recent months , now admitted on 7-5 for leg paralysis related to spinal cord involvement , c/b[complicated by] arm formation of blood clot in deep vein , and newly found lung nodules concerning for malignancy , now after biopsy .
+3 61 y/o[year old] m[male] with past cancer that forms in a type of white blood cell treated with chemotherapy and xrt[radiotherapy used in cancer treatment] , multiple hospital admissions for lung infection in recent months , now admitted on 7-5 for leg paralysis related to spinal cord involvement , c/b[complicated by] arm dvt[deep vein thrombosis] , and newly found lung nodules concerning for malignancy , now s/p[status post] biopsy .
+4 61 y/o[year old] m[male] with past cancer that forms in a type of white blood cell treated with chemotherapy and xrt[radiotherapy used in cancer treatment] , multiple hospital admissions for lung infection in recent months , now admitted on 7-5 for leg paralysis related to spinal cord involvement , c/b[complicated by] arm formation of blood clot in deep vein , and newly found lung nodules concerning for malignancy , now after biopsy .
+
+# stemi she had initially presented to the ed with chest pains and was observed overnight .
+1 # stemi[st-elevation myocardial infarction] she had initially presented to the ed[emergency department] with chest pains and was observed overnight .
+2 # heart attack she had initially presented to the ed[emergency department] with chest pains and was observed overnight .
+3 # stemi[st-elevation myocardial infarction] you had initially presented to the ed[emergency department] with chest pains and was observed overnight .
+4 # heart attack you had initially presented to the ed[emergency department] with chest pains and was observed overnight .
+
+per id will plan to treat mssa bacteremia/abscesses with iv daptomycin to total of 6-8wk course .
+1 per id[infectious dose] will plan to treat mssa[methicillin-sensitive staphylococcus aureus] bacteremia/abscesses with iv[intravenous] daptomycin to total of 6-8wk course .
+2 per id[infectious dose] will plan to treat infection caused by a type of bacteremia/abscesses with by vein daptomycin to total of 6-8week course .
+3 per id[infectious dose] will plan to treat mssa[methicillin-sensitive staphylococcus aureus] bacteremia/abscesses with iv[intravenous] daptomycin to total of 6-8wk course .
+4 per id[infectious dose] will plan to treat infection caused by a type of bacteremia/abscesses with by vein daptomycin to total of 6-8week course .
+
+she was seen and evaluated by physical therapy and occupational therapy who felt that she was stable to go home with pt/ot services .
+1 she was seen and evaluated by physical therapy and occupational therapy who felt that she was stable to go home with pt[physical therapy] and/or ot[occupational therapy] services .
+2 she was seen and evaluated by physical therapy and occupational therapy who felt that she was stable to go home with pt[physical therapy] and/or ot[occupational therapy] services .
+3 you were seen and evaluated by physical therapy and occupational therapy who felt that you were stable to go home with pt[physical therapy] and/or ot[occupational therapy] services .
+4 you were seen and evaluated by physical therapy and occupational therapy who felt that you were stable to go home with pt[physical therapy] and/or ot[occupational therapy] services .
+
+sleep apnea - the patient reported having a previous diagnosis of osa , for which she has been on bipap in the past .
+1 sleep apnea[sleep disorder that breathing repeatedly stops and starts] - the patient reported having a previous diagnosis of osa[obstructive sleep apnea] , for which she has been on bipap[bilevel positive airway pressure] in the past .
+2 sleep apnea[sleep disorder that breathing repeatedly stops and starts] - the patient reported having a previous diagnosis of osa[obstructive sleep apnea] , for which she has been on device that helps with breathing in the past .
+3 sleep apnea[sleep disorder that breathing repeatedly stops and starts] - you reported having a previous diagnosis of osa[obstructive sleep apnea] , for which you have been on bipap[bilevel positive airway pressure] in the past .
+4 sleep apnea[sleep disorder that breathing repeatedly stops and starts] - you reported having a previous diagnosis of osa[obstructive sleep apnea] , for which you habe been on device that helps with breathing in the past .
+
+he was transferred to hospital1 18 location 86 cath lab where he was found to have 90 % hazy lad lesion successfully stented with bare metal stent .
+1 he was transferred to hospital1 18 location 86 cath[catheter] lab where he was found to have 90 % hazy lad[left anterior descending] lesion successfully stented with bare metal stent .
+2 he was transferred to hospital1 18 location 86 cath[catheter] lab where he was found to have 90 % hazy heart artery lesion successfully stented with bare metal stent .
+3 you were transferred to hospital1 18 location 86 cath[catheter] lab where you were found to have 90 % hazy lad[left anterior descending] lesion successfully stented with bare metal stent .
+4 you were transferred to hospital1 18 location 86 cath[catheter] lab where you were found to have 90 % hazy heart artery lesion successfully stented with bare metal stent .
+
+transplant surgery consulted in ed , plan for intervention in am .
+1 transplant surgery consulted in ed[emergency department] , plan for intervention before noon .
+1 transplant surgery consulted in ed[emergency department] , plan for intervention before noon .
+3 transplant surgery consulted in ed[emergency department] , plan for intervention before noon .
+3 transplant surgery consulted in ed[emergency department] , plan for intervention before noon .
+
+she was seen by pt once tlso brace arrived and rehab was recommended .
+1 she was seen by pt[physical therapy] once tlso[thoracolumbosacral orthosis] brace arrived and rehab was recommended .
+2 she was seen by pt[physical therapy] once corset-style brace arrived and rehab was recommended .
+3 you were seen by pt[physical therapy] once tlso[thoracolumbosacral orthosis] brace arrived and rehab was recommended .
+4 you were seen by pt[physical therapy] once corset-style brace arrived and rehab was recommended .
+
+cta head was performed which showed sah and l mca aneurysm .
+1 cta[computed tomography angiography] head was performed which showed sah[subarachnoid hemorrhage] and l mca[mucinous cystadenomamiddle cerebral artery] aneurysm .
+2 blood vessel imaging of head was performed which showed stroke and l[left] brain artery aneurysm .
+3 cta[computed tomography angiography] head was performed which showed sah[subarachnoid hemorrhage] and l mca[mucinous cystadenomamiddle cerebral artery] aneurysm .
+4 blood vessel imaging of head was performed which showed stroke and l[left] brain artery aneurysm .
+
+gave fluid bolluses to maintained bp , but eventulally ussed pressors to continue to support bp .
+1 gave fluid bolluses to maintained bp[blood pressure] , but eventulally ussed pressors to continue to support bp[blood pressure] .
+1 gave fluid bolluses to maintained bp[blood pressure] , but eventulally ussed pressors to continue to support bp[blood pressure] .
+3 gave fluid bolluses to maintained bp[blood pressure] , but eventulally ussed pressors to continue to support bp[blood pressure] .
+3 gave fluid bolluses to maintained bp[blood pressure] , but eventulally ussed pressors to continue to support bp[blood pressure] .
+
+her coumadin was held , but her inr did not adequately come down likely secondary to dietary vitamin k deficiency so she received additional po vitamin k with good response of her inr .
+1 her coumadin was held , but her inr[international normalized ratio] did not adequately come down likely secondary to dietary vitamin k deficiency so she received additional po[by mouth] vitamin k with good response of her inr[international normalized ratio] .
+1 her coumadin was held , but her inr[international normalized ratio] did not adequately come down likely secondary to dietary vitamin k deficiency so she received additional po[by mouth] vitamin k with good response of her inr[international normalized ratio] .
+3 your coumadin was held , but your inr[international normalized ratio] did not adequately come down likely secondary to dietary vitamin k deficiency so you received additional po[by mouth] vitamin k with good response of your inr[international normalized ratio] .
+3 your coumadin was held , but your inr[international normalized ratio] did not adequately come down likely secondary to dietary vitamin k deficiency so you received additional po[by mouth] vitamin k with good response of your inr[international normalized ratio] .
+
+transferred to floor , then after id consult , decision was made to d/c levaquin as well , with plan of 7d of vanco after her central line d/c 'd .
+1 transferred to floor , then after id[infectious doctor] consult , decision was made to d/c[discontinue] levaquin as well , with plan of 7days of vanco after her central line d/c 'd[discontinued] .
+1 transferred to floor , then after id[infectious doctor] consult , decision was made to d/c[discontinue] levaquin as well , with plan of 7days of vanco after her central line d/c 'd[discontinued] .
+3 transferred to floor , then after id[infectious doctor] consult , decision was made to d/c[discontinue] levaquin as well , with plan of 7days of vanco after your central line d/c 'd[discontinued] .
+3 transferred to floor , then after id[infectious doctor] consult , decision was made to d/c[discontinue] levaquin as well , with plan of 7days of vanco after your central line d/c 'd[discontinued] .
+
+on admission to the micu , vitals were : 97.8 , 68 , 97/59 , 97 % on ra .
+1 on admission to the micu[medical intensive care unit] , vitals were : 97.8 , 68 , 97/59 , 97 % on ra[room air] .
+1 on admission to the micu[medical intensive care unit] , vitals were : 97.8 , 68 , 97/59 , 97 % on ra[room air] .
+3 on admission to the micu[medical intensive care unit] , vitals were : 97.8 , 68 , 97/59 , 97 % on ra[room air] .
+3 on admission to the micu[medical intensive care unit] , vitals were : 97.8 , 68 , 97/59 , 97 % on ra[room air] .
+
+the patient also was given iv acyclovir prior to presentation to hospital1 18 in case the patient 's clinical picture represented ebv encephalitis .
+1 the patient also was given iv[intravenous] acyclovir prior to presentation to hospital1 18 in case the patient 's clinical picture represented ebv[epstein barr virus] brain infection .
+2 the patient also was given iv[intravenous] acyclovir prior to presentation to hospital1 18 in case the patient 's clinical picture represented virus caused brain infection .
+3 the patient also was given iv[intravenous] acyclovir prior to presentation to hospital1 18 in case the patient 's clinical picture represented ebv[epstein barr virus] brain infection .
+4 the patient also was given iv[intravenous] acyclovir prior to presentation to hospital1 18 in case the patient 's clinical picture represented virus caused brain infection .
+
+# id : possible sources of infection included pneumonia , vs rectovag fistual vs meningitis resulting in a septic picute .
+1 # id : possible sources of infection included lungs infection , vs[versus] abnormal connection between the lower portion of large intestine and vagina vs[versus]  inflammation of the membranes resulting in a septic picute .
+1 # id : possible sources of infection included lungs infection , vs[versus] abnormal connection between the lower portion of large intestine and vagina vs[versus]  inflammation of the membranes resulting in a septic picute .
+3 # id : possible sources of infection included lungs infection , vs[versus] abnormal connection between the lower portion of large intestine and vagina vs[versus]  inflammation of the membranes resulting in a septic picute .
+3 # id : possible sources of infection included lungs infection , vs[versus] abnormal connection between the lower portion of large intestine and vagina vs[versus]  inflammation of the membranes resulting in a septic picute .
+
+she was continued on antibiotics ( amp-sublactam and azithromycin ) and steroids , her anticoagulation was stopped , and she was also diuresed gently to keep steadily negative fluid balances .
+1 she was continued on antibiotics ( amp-sublactam and azithromycin ) and steroids , her anticoagulation was stopped , and she was also diuresed[weak] gently to keep steadily negative fluid balances .
+1 she was continued on antibiotics ( amp-sublactam and azithromycin ) and steroids , her anticoagulation was stopped , and she was also diuresed[weak] gently to keep steadily negative fluid balances .
+3 you were continued on antibiotics ( amp-sublactam and azithromycin ) and steroids , your anticoagulation was stopped , and you were also diuresed[weak] gently to keep steadily negative fluid balances .
+3 you were continued on antibiotics ( amp-sublactam and azithromycin ) and steroids , your anticoagulation was stopped , and you were also diuresed[weak] gently to keep steadily negative fluid balances .
+
+in ed , had a cxr read as pulonary edema vs. infiltrate .
+1 in ed[emergency department] , had a cxr[chest x-ray] read as excess fluid in the lungs vs. liquids .
+1 in ed[emergency department] , had a cxr[chest x-ray] read as excess fluid in the lungs vs. liquids .
+3 in ed[emergency department] , had a cxr[chest x-ray] read as excess fluid in the lungs vs. liquids .
+3 in ed[emergency department] , had a cxr[chest x-ray] read as excess fluid in the lungs vs. liquids .
+
+during that hospitalization she was admitted with concern for stemi , but had a cath with nonocclusive cad and only vasospasm .
+1 during that hospitalization she was admitted with concern for stemi[st elevation myocardial infarction] , but had a cath[catheter] with nonocclusive cad[coronary artery disease] and only narrowing of the arteries .
+2 during that hospitalization she was admitted with concern for heart artery block , but had a cath[catheter] with nonocclusive heart artery disease and only narrowing of the arteries .
+3 during that hospitalization you were admitted with concern for stemi[st elevation myocardial infarction] , but had a cath[catheter] with nonocclusive cad[coronary artery disease] and only narrowing of the arteries .
+4 during that hospitalization you were admitted with concern for heart artery block , but had a cath[catheter] with nonocclusive heart artery disease and only narrowing of the arteries .
+
+started on sepsis protocol and given total of 6.6 l ns .
+1 started on sepsis protocol and given total of 6.6 l ns[normal saline] .
+1 started on sepsis protocol and given total of 6.6 l ns[normal saline] .
+3 started on sepsis protocol and given total of 6.6 l ns[normal saline] .
+3 started on sepsis protocol and given total of 6.6 l ns[normal saline] .
+
+it is also possible that she had pulmonary edema in response to hypertension , as her sbp was 215/115 in the ed on admission .
+1 it is also possible that she had excess fluid in the lungs in response to high blood pressure , as her sbp[systolic blood pressure] was 215/115 in the ed[emergency department] on admission .
+1 it is also possible that she had excess fluid in the lungs in response to high blood pressure , as her sbp[systolic blood pressure] was 215/115 in the ed[emergency department] on admission .
+3 it is also possible that you had excess fluid in the lungs in response to high blood pressure , as your sbp[systolic blood pressure] was 215/115 in the ed[emergency department] on admission .
+3 it is also possible that you had excess fluid in the lungs in response to high blood pressure , as your sbp[systolic blood pressure] was 215/115 in the ed[emergency department] on admission .
+
+he received iv fluid boluses as needed at keep sbp > 90. .
+1 he received iv[intravenous] fluid boluses as needed at keep sbp[systolic blood pressure] > 90. .
+1 he received iv[intravenous] fluid boluses as needed at keep sbp[systolic blood pressure] > 90. .
+3 you received iv[intravenous] fluid boluses as needed at keep sbp[systolic blood pressure] > 90. .
+3 you received iv[intravenous] fluid boluses as needed at keep sbp[systolic blood pressure] > 90. .
+
+she was started on mass transfusion protocol as well as levophed improving her bp to 120s .
+1 she was started on mass transfusion protocol as well as levophed improving her bp[blood pressure] to 120s .
+1 she was started on mass transfusion protocol as well as levophed improving her bp[blood pressure] to 120s .
+3 you were started on mass transfusion protocol as well as levophed improving your bp[blood pressure] to 120s .
+3 you were started on mass transfusion protocol as well as levophed improving your bp[blood pressure] to 120s .
+
+pt responded to iv fluids and her cr went down .
+1 pt[patient] responded to iv[intravenous] fluids and her cr[complete remission] went down .
+2 pt[patient] responded to iv[intravenous] fluids and her test of no disease went down .
+3 you responded to iv[intravenous] fluids and your cr[complete remission] went down .
+4 you responded to iv[intravenous] fluids and your test of no disease went down .
+
+bp 's in the 80 's came up to 90 's with gentle bolus .
+1 bp[blood pressure] 's in the 80 's came up to 90 's with gentle bolus .
+1 bp[blood pressure] 's in the 80 's came up to 90 's with gentle bolus .
+3 bp[blood pressure] 's in the 80 's came up to 90 's with gentle bolus .
+3 bp[blood pressure] 's in the 80 's came up to 90 's with gentle bolus .
+
+53 yo w w/ms first name ( titles ) last name ( titles ) utis s/p hyponatremia and seizure .
+1 53 yo[year old] w[woman] with ms[mental status] first name ( titles ) last name ( titles ) utis[urinary tract infection] s/p[status post]  low sodium concentration in the blood and seizure .
+2 53 yo[year old] w[woman] with ms[mental status] first name ( titles ) last name ( titles ) utis[urinary tract infection] after low sodium concentration in the blood and seizure .
+3 53 yo[year old] w[woman] with ms[mental status] first name ( titles ) last name ( titles ) utis[urinary tract infection] s/p[status post]  low sodium concentration in the blood and seizure .
+4 53 yo[year old] w[woman] with ms[mental status] first name ( titles ) last name ( titles ) utis[urinary tract infection] after low sodium concentration in the blood and seizure .
+
+fen- nutrition he was closely monitered and underwent swallow test.. rehab he was seen by ot/pt who felt that the patient needed rehab .
+1 fen-[fluids, electrolytes, nutrition] nutrition he was closely monitered and underwent swallow test.. rehab he was seen by ot[occupational therapy]/pt[physical therapy] who felt that the patient needed rehab .
+2 fen-[fluids, electrolytes, nutrition] nutrition he was closely monitered and underwent swallow test.. rehab he was seen by ot[occupational therapy] and pt[physical therapy] who felt that the patient needed rehab .
+3 fen-[fluids, electrolytes, nutrition] nutrition you were closely monitered and underwent swallow test.. rehab you were seen by ot[occupational therapy]/pt[physical therapy] who felt that you needed rehab .
+4 fen-[fluids, electrolytes, nutrition] nutrition you were closely monitered and underwent swallow test.. rehab you were seen by ot[occupational therapy] and pt[physical therapy] who felt that you needed rehab .
+
+he was transferred to the floor prior to planned discharge after a pt evaluation .
+1 he was transferred to the floor prior to planned discharge after a pt[physical therapy] evaluation .
+1 he was transferred to the floor prior to planned discharge after a pt[physical therapy] evaluation .
+3 you were transferred to the floor prior to planned discharge after a pt[physical therapy] evaluation .
+3 you were transferred to the floor prior to planned discharge after a pt[physical therapy] evaluation .
+
+pt brought immediately to or for exploratory laparotomy , bolt , and trach .
+1 pt[patient] brought immediately to or[operating room] for exploratory laparotomy , bolt[bilateral orthotopic lung transplant] , and trach .
+2 pt[patient] brought immediately to or[operating room] for exploratory laparotomy , lung transplant , and trach .
+3 pt[patient] brought immediately to or[operating room] for exploratory laparotomy , bolt[bilateral orthotopic lung transplant] , and trach .
+4 pt[patient] brought immediately to or[operating room] for exploratory laparotomy , lung transplant , and trach .
+
+cardiac cath revealed severe 3 vd with preserved ef .
+1 heart cath[catheter] revealed severe 3 vd[vascular disease] with preserved ef[ejection fraction] .
+2 heart cath[catheter] revealed severe 3 vd[vascular disease] with preserved blood pumping score .
+3 heart cath[catheter] revealed severe 3 vd[vascular disease] with preserved ef[ejection fraction] .
+4 heart cath[catheter] revealed severe 3 vd[vascular disease] with preserved blood pumping score .
+
+recommend increasing atenolol dose if pt becomes hyertensive above goal bp after discharge .
+1 recommend increasing atenolol dose if pt[patient] becomes high blood pressure above goal bp[blood pressure] after discharge .
+1 recommend increasing atenolol dose if pt[patient] becomes high blood pressure above goal bp[blood pressure] after discharge .
+3 you are recommended to increase atenolol dose if you becomes high blood pressure above goal bp[blood pressure] after discharge .
+3 you are recommended to increase atenolol dose if you becomes high blood pressure above goal bp[blood pressure] after discharge .
+
+he received one dose of stress dose steroids in the ed .
+1 he received one dose of stress dose steroids in the ed[emergency department] .
+1 he received one dose of stress dose steroids in the ed[emergency department] .
+3 you received one dose of stress dose steroids in the ed[emergency department] .
+3 you received one dose of stress dose steroids in the ed[emergency department] .
+
+on arrival to the micu , patient 's vs were 97.7 , hr 96 , bp 137/72 , rr 15 , 98 % ra .
+1 on arrival to the micu[medical intensive care unit] , patient 's vs[vital signs] were 97.7 , hr[heart rate] 96 , bp[blood pressure] 137/72 , rr[respiratory rate] 15 , 98 % ra[room air] .
+2 on arrival to the micu[medical intensive care unit] , patient 's vs[vital signs] were 97.7 , hr[heart rate] 96 , bp[blood pressure] 137/72 , breathing rate 15 , 98 % ra[room air] .
+3 on arrival to the micu[medical intensive care unit] , your vs[vital signs] were 97.7 , hr[heart rate] 96 , bp[blood pressure] 137/72 , rr[respiratory rate] 15 , 98 % ra[room air] .
+4 on arrival to the micu[medical intensive care unit] , your vs[vital signs] were 97.7 , hr[heart rate] 96 , bp[blood pressure] 137/72 , breathing rate 15 , 98 % ra[room air] .
+
+she was seen by toxicology who recommended iv nac and hepatology agreed .
+1 she was seen by toxicology who recommended iv[intravenous] nac[n-acetyl cysteine] and hepatology agreed .
+1 she was seen by toxicology who recommended iv[intravenous] nac[n-acetyl cysteine] and hepatology agreed .
+3 you were seen by toxicology who recommended iv[intravenous] nac[n-acetyl cysteine] and hepatology agreed .
+3 you were seen by toxicology who recommended iv[intravenous] nac[n-acetyl cysteine] and hepatology agreed .
+
+upon arrival the ed a chest ct was done which showed a marked distended gallbladder .
+1 upon arrival the ed[emergency department] a chest ct[computed tomography] was done which showed a marked distended gallbladder .
+2 upon arrival the ed[emergency department] a chest imaging was done which showed a marked distended gallbladder .
+3 upon arrival the ed[emergency department] a chest ct[computed tomography] was done which showed a marked distended gallbladder .
+4 upon arrival the ed[emergency department] a chest imaging was done which showed a marked distended gallbladder .
+
+he will be discharged on lasix 50 mg po bid and will receive 3 sessions of uf per week as an outpatient .
+1 he will be discharged on lasix 50 mg po[medication is taken by mouth] bid[twice a day] and will receive 3 sessions of uf[ultrafiltration] per week as an outpatient .
+1 he will be discharged on lasix 50 mg po[medication is taken by mouth] bid[twice a day] and will receive 3 sessions of uf[ultrafiltration] per week as an outpatient .
+3 you will be discharged on lasix 50 mg po[medication is taken by mouth] bid[twice a day] and will receive 3 sessions of uf[ultrafiltration] per week as an outpatient .
+3 you will be discharged on lasix 50 mg po[medication is taken by mouth] bid[twice a day] and will receive 3 sessions of uf[ultrafiltration] per week as an outpatient .
+
+later on op day he was weaned from sedation , awoke neurologically intact and extubated .
+1 later on op[operation] day he was weaned from sedation , awoke with no damage to nervous system and removed ventilator .
+1 later on op[operation] day he was weaned from sedation , awoke with no damage to nervous system and removed ventilator .
+3 later on op[operation] day you were weaned from sedation , awoke with no damage to nervous system and removed ventilator .
+3 later on op[operation] day you were weaned from sedation , awoke with no damage to nervous system and removed ventilator .
+
+known lastname 496 presented to ed via ambulance from group home for evaluation of abdominal pain w/ n/v x 6 days .
+1 patient 496 presented to ed[emergency department] via ambulance from group home for evaluation of abdominal pain w/[with] n/v[nausea , vomiting] x 6 days .
+2 patient 496 presented to ed[emergency department] via ambulance from group home for evaluation of abdominal pain w/[with] sick , vomiting x 6 days .
+3 patient 496 presented to ed[emergency department] via ambulance from group home for evaluation of abdominal pain w/[with] n/v[nausea , vomiting] x 6 days .
+4 patient 496 presented to ed[emergency department] via ambulance from group home for evaluation of abdominal pain w/[with] sick , vomiting x 6 days .
+
+his ag increased to 21 , with a glucose of 300 , and he was transferred to the hospital unit name 153 .
+1 his ag[antigen] increased to 21 , with a glucose of 300 , and he was transferred to the hospital .
+1 his ag[antigen] increased to 21 , with a glucose of 300 , and he was transferred to the hospital .
+3 your ag[antigen] increased to 21 , with a glucose of 300 , and he was transferred to the hospital .
+3 your ag[antigen] increased to 21 , with a glucose of 300 , and he was transferred to the hospital .
+
+he had a stress test which showed inferolateral st changes .
+1 he had a stress test which showed below and to one side st[speech therapy] changes .
+1 he had a stress test which showed below and to one side st[speech therapy] changes .
+3 you had a stress test which showed below and to one side st[speech therapy] changes .
+3 you had a stress test which showed below and to one side st[speech therapy] changes .
+
+slight concern for adrenal insufficiency in setting of high doses of iv steroids .
+1 slight concern for adrenal insufficiency in setting of high doses of iv[intravenous] steroids .
+1 slight concern for adrenal insufficiency in setting of high doses of iv[intravenous] steroids .
+3 slight concern for adrenal insufficiency in setting of high doses of iv[intravenous] steroids .
+3 slight concern for adrenal insufficiency in setting of high doses of iv[intravenous] steroids .
+
+ent did not think this was operable and wanted to initiate radiation to help shrink the tumor and airway compromise .
+1 ent[ear, nose, and throat] did not think this was operable and wanted to initiate radiation to help shrink the tumor and airway block .
+1 ent[ear, nose, and throat] did not think this was operable and wanted to initiate radiation to help shrink the tumor and airway block .
+3 ent[ear, nose, and throat] did not think this was operable and wanted to initiate radiation to help shrink the tumor and airway block .
+3 ent[ear, nose, and throat] did not think this was operable and wanted to initiate radiation to help shrink the tumor and airway block .
+
+she was bacteremia on pressors at numerous points during her hospital course .
+1 she was bacteremia[bacteria present in bloodstream] on pressors at numerous points during her hospital course .
+1 she was bacteremia[bacteria present in bloodstream] on pressors at numerous points during her hospital course .
+3 you were bacteremia[bacteria present in bloodstream] on pressors at numerous points during your hospital course .
+3 you were bacteremia[bacteria present in bloodstream] on pressors at numerous points during your hospital course .
+
+patient was given 500cc ns , had basic labs ( no imaging ) .
+1 patient was given 500cc ns[normal saline] , had basic labs ( no imaging ) .
+1 patient was given 500cc ns[normal saline] , had basic labs ( no imaging ) .
+3 you were given 500cc ns[normal saline] , had basic labs ( no imaging ) .
+3 you were given 500cc ns[normal saline] , had basic labs ( no imaging ) .
+
+50 y/o f with no significant pmhx who is being admitted to the hospital unit name 153 for profuse vaginal bleeding with hypotension .
+1 50 y/o[year old] f[female] with no significant pmhx[past medical history] who is being admitted to the hospital unit name 153 for profuse vaginal bleeding with low blood pressure .
+1 50 y/o[year old] f[female] with no significant pmhx[past medical history] who is being admitted to the hospital unit name 153 for profuse vaginal bleeding with low blood pressure .
+3 50 y/o[year old] f[female] with no significant pmhx[past medical history] who is being admitted to the hospital unit name 153 for profuse vaginal bleeding with low blood pressure .
+3 50 y/o[year old] f[female] with no significant pmhx[past medical history] who is being admitted to the hospital unit name 153 for profuse vaginal bleeding with low blood pressure .
+
+pt will need to have pfts checked as an outpatient .
+1 pt[patient] will need to have pfts[pulmonary function tests] checked as an outpatient .
+2 pt[patient] will need to have lung fuction tests checked as an outpatient .
+3 pt[patient] will need to have pfts[pulmonary function tests] checked as an outpatient .
+4 pt[patient] will need to have lung fuction tests checked as an outpatient .
+
+she was started on levaquin/flagyl for possible pna yesterday and was evaluated by psych for ms changes and an eeg report is pending .
+1 she was started on levaquin/flagyl for possible pna[pneumonia] yesterday and was evaluated by psych for ms[mental status ] changes and an eeg[electroencephalogram] report is pending .
+2 she was started on levaquin/flagyl for possible lung infection yesterday and was evaluated by psych for ms[mental status] changes and an brain electrical activity detection report is pending .
+3 you were started on levaquin/flagyl for possible pna[pneumonia] yesterday and were evaluated by psych for ms[mental status ] changes and an eeg[electroencephalogram] report is pending .
+4 you were started on levaquin/flagyl for possible lung infection yesterday and were evaluated by psych for ms[mental status] changes and an brain electrical activity detection report is pending .
+
+patient was treated with ambisome with plans for tx for 1-2 weeks followed by itraconazole for at least a year .
+1 patient was treated with ambisome with plans for tx[therapy] for 1-2 weeks followed by itraconazole for at least a year .
+1 patient was treated with ambisome with plans for tx[therapy] for 1-2 weeks followed by itraconazole for at least a year .
+3 you were treated with ambisome with plans for tx[therapy] for 1-2 weeks followed by itraconazole for at least a year .
+3 you were treated with ambisome with plans for tx[therapy] for 1-2 weeks followed by itraconazole for at least a year .
+
+in the ed , the patient reported chest pain only with cough .
+1 in the ed[emergency department] , the patient reported chest pain only with cough .
+1 in the ed[emergency department] , the patient reported chest pain only with cough .
+3 in the ed[emergency department] , the patient reported chest pain only with cough .
+3 in the ed[emergency department] , the patient reported chest pain only with cough .
+
+he was subsequently started on a labetolol drip with bp decreasing slightly .
+1 he was subsequently started on a labetolol drip with bp[blood pressure] decreasing slightly .
+1 he was subsequently started on a labetolol drip with bp[blood pressure] decreasing slightly .
+3 you were subsequently started on a labetolol drip with bp[blood pressure] decreasing slightly .
+3 you were subsequently started on a labetolol drip with bp[blood pressure] decreasing slightly .
+
+the ed consulted cardiology , who were not surprised by the very mild trop elevation in the setting of likely seizure / tachycardia in a patient with known cad ; they recommended trending the troponin and ecg ( though not very useful with extensive conduction system disease ) and controling sbp < 140 and hr < 80 with iv mtp ; possible stress test .
+1 the ed[emergency department] consulted cardiology , who were not surprised by the very mild trop elevation in the setting of likely seizure / high heart beat rhythm in a patient with known heart disease ; they recommended trending the troponin and ecg[electrocardiogram] ( though not very useful with extensive conduction system disease ) and controling sbp[systolic blood pressure] < 140 and hr < 80 with iv[intravenous] mtp ; possible stress test .
+2 the ed[emergency department] consulted cardiology , who were not surprised by the very mild trop elevation in the setting of likely seizure / high heart beat rhythm in a patient with known heart artery disease ; they recommended trending the troponin and heart electrical activity detection ( though not very useful with extensive conduction system disease ) and controling sbp[systolic blood pressure] < 140 and hr[heart rate] < 80 with by vein mtp ; possible stress test .
+3 the ed[emergency department] consulted cardiology , who were not surprised by the very mild trop elevation in the setting of likely seizure / high heart beat rhythm in a patient with known heart disease ; they recommended trending the troponin and ecg[electrocardiogram] ( though not very useful with extensive conduction system disease ) and controling sbp[systolic blood pressure] < 140 and hr < 80 with iv[intravenous] mtp ; possible stress test .
+4 the ed[emergency department] consulted cardiology , who were not surprised by the very mild trop elevation in the setting of likely seizure / high heart beat rhythm in a patient with known heart artery disease ; they recommended trending the troponin and heart electrical activity detection ( though not very useful with extensive conduction system disease ) and controling sbp[systolic blood pressure] < 140 and hr[heart rate] < 80 with by vein mtp ; possible stress test .
+
+patient denies any hx of liver disease , blood transfusions , ivdu , or recent travel .
+1 patient denies any hx[history] of liver disease , blood transfusions , ivdu[intravenous drug user] , or recent travel .
+1 patient denies any hx[history] of liver disease , blood transfusions , ivdu[intravenous drug user] , or recent travel .
+3 you deny any hx[history] of liver disease , blood transfusions , ivdu[intravenous drug user] , or recent travel .
+3 you deny any hx[history] of liver disease , blood transfusions , ivdu[intravenous drug user] , or recent travel .
+
+patient was triggered for hypotension on arrival to sbp 70 ( baseline in 90s ) .
+1 patient was triggered for low blood pressure on arrival to sbp[systolic blood pressur] 70 ( baseline in 90s ) .
+1 patient was triggered for low blood pressure on arrival to sbp[systolic blood pressur] 70 ( baseline in 90s ) .
+3 you were triggered for low blood pressure on arrival to sbp[systolic blood pressur] 70 ( baseline in 90s ) .
+3 you were triggered for low blood pressure on arrival to sbp[systolic blood pressur] 70 ( baseline in 90s ) .
+
+# .cad : pt had elevated tn , in setting of severe bradycardia , hr 17-20s .
+1 # .cad[coronary artery disease] : pt had elevated tn , in setting of severe bradycardia , hr[heart rate] 17-20s .
+2 # .heart disease : pt[patient] had elevated tn[troponins] , in setting of severetoo slow heart rate , hr[heart rate] 17-20s .
+3 # .cad[coronary artery disease] : pt had elevated tn , in setting of severe bradycardia , hr[heart rate] 17-20s .
+4 # .heart disease : pt[patient] had elevated tn[troponins] , in setting of severetoo slow heart rate , hr[heart rate] 17-20s .
+
+with this finding , vascular surgery was consulted and she was taken to the operating room for a left femoral to popliteal to below-knee popliteal bypass .
+1 with this finding , vascular surgery was consulted and she was taken to the operating room for a left femoral to popliteal[relating to the back part of the leg behind the knee joint] to below-knee popliteal bypass .
+1 with this finding , vascular surgery was consulted and she was taken to the operating room for a left femoral to popliteal[relating to the back part of the leg behind the knee joint] to below-knee popliteal bypass .
+3 with this finding , vascular surgery was consulted and you were taken to the operating room for a left femoral to popliteal[relating to the back part of the leg behind the knee joint] to below-knee popliteal bypass .
+3 with this finding , vascular surgery was consulted and you were taken to the operating room for a left femoral to popliteal[relating to the back part of the leg behind the knee joint] to below-knee popliteal bypass .
+
+in the ed , initial vs were : t : 97.9 , p : 70 bp : 197/122 , rr : 14 
+1 in the ed[emergency department] , initial vs[vital signs] were : t[temperature] : 97.9 , p[pulse rate] : 70 bp[blood pressure] : 197/122 , rr[respiratory rate] : 14 .
+2 in the ed[emergency department] , initial vs[vital signs] were : t[temperature] : 97.9 , p[pulse rate] : 70 bp[blood pressure] : 197/122 , breathing rate : 14 .
+3 in the ed[emergency department] , initial vs[vital signs] were : t[temperature] : 97.9 , p[pulse rate] : 70 bp[blood pressure] : 197/122 , rr[respiratory rate] : 14 .
+4 in the ed[emergency department] , initial vs[vital signs] were : t[temperature] : 97.9 , p[pulse rate] : 70 bp[blood pressure] : 197/122 , breathing rate : 14 .
+
+pt is a 85 yo male with severe cad s/p cabgx2 , bioprosthetic mvr , ischemic cm with ef 25 % who presents with worsening shortness of breath .
+1 pt[patient] is a 85 yo[year old] male with severe cad[coronary artery disease] s/p[status post] cabg[coronary artery bypass graft]x2 , bioprosthetic[prosthesis consisting of tissue and part] mvr[mitral valve replacement] , ischemic cm[cardiomyopathy] with ef 25 % who presents with worsening shortness of breath .
+2 pt[patient] is a 85 yo[year old] male with severe heart disease after heart bypass surgeryx2 , bioprosthetic[prosthesis consisting of tissue and part] mvr[mitral valve replacement] , dilated cardiomyopathy with blood pumping score 25 % who presents with worsening shortness of breath .
+3 you are a 85 yo[year old] male with severe cad[coronary artery disease] s/p[status post] cabg[coronary artery bypass graft]x2 , bioprosthetic[prosthesis consisting of tissue and part] mvr[mitral valve replacement] , ischemic cm[cardiomyopathy] with ef 25 % who presents with worsening shortness of breath .
+4 you are a 85 yo[year old] male with severe heart disease after heart bypass surgeryx2 , bioprosthetic[prosthesis consisting of tissue and part] mvr[mitral valve replacement] , dilated cardiomyopathy with blood pumping score 25 % who presents with worsening shortness of breath .
+
+in the ed , he was hemodynamically stable ( hypertensive ) and tachycardic to 100 's .
+1 in the ed[emergency department] , he was hemodynamically[forces the heart has to develop to maintain blood flow] stable ( high blood pressure ) and abnormally rapid heart rate to 100 's .
+1 in the ed[emergency department] , he was hemodynamically[forces the heart has to develop to maintain blood flow] stable ( high blood pressure ) and abnormally rapid heart rate to 100 's .
+3 in the ed[emergency department] , you were hemodynamically[forces the heart has to develop to maintain blood flow] stable ( high blood pressure ) and abnormally rapid heart rate to 100 's .
+3 in the ed[emergency department] , you were hemodynamically[forces the heart has to develop to maintain blood flow] stable ( high blood pressure ) and abnormally rapid heart rate to 100 's .
+
+additionally , she received chest pt and was started on inhaled steroids in setting of emphysema and persistent cough with sputum production .
+1 additionally , she received chest pt[physical therapy] and was started on inhaled steroids in setting of lung disease and persistent cough with sputum production .
+1 additionally , she received chest pt[physical therapy] and was started on inhaled steroids in setting of lung disease and persistent cough with sputum production .
+3 additionally , you received chest pt[physical therapy] and were started on inhaled steroids in setting of lung disease and persistent cough with sputum production .
+3 additionally , you received chest pt[physical therapy] and were started on inhaled steroids in setting of lung disease and persistent cough with sputum production .
+
+in , the ed , the patient received a total of 3l ns ; his hr responded to ivfs , so he was bolused again .
+1 in , the ed[emergency department] , the patient received a total of 3l ns[normal saline] ; his hr[heart rate] responded to ivfs[intravenous fluids] , so he was bolused again .
+1 in , the ed[emergency department] , the patient received a total of 3l ns[normal saline] ; his hr[heart rate] responded to ivfs[intravenous fluids] , so he was bolused again .
+3 in , the ed[emergency department] , you received a total of 3l ns[normal saline] ; your hr[heart rate] responded to ivfs[intravenous fluids] , so you were bolused again .
+3 in , the ed[emergency department] , you received a total of 3l ns[normal saline] ; your hr[heart rate] responded to ivfs[intravenous fluids] , so you were bolused again .
+
+ems found her unresponsive and brought her to the ed .
+1 ems[emergency medical service] found her unresponsive and brought her to the ed[emergency department] .
+1 ems[emergency medical service] found her unresponsive and brought her to the ed[emergency department] .
+3 ems[emergency medical service] found you unresponsive and brought you to the ed[emergency department] .
+3 ems[emergency medical service] found you unresponsive and brought you to the ed[emergency department] .
+
+she received bicarb/mucomyst pretreatment for cath and the ace was held .
+1 she received bicarb and/or mucomyst pretreatment for cath[catheter] and the ace[angiotensin-converting enzyme] was held .
+2 she received bicarb and/or mucomyst pretreatment for cath[catheter] and the antihypertensive drug was held .
+3 you received bicarb and/or mucomyst pretreatment for cath[catheter] and the ace[angiotensin-converting enzyme] was held .
+4 you received bicarb and/or mucomyst pretreatment for cath[catheter] and the antihypertensive drug was held .
+
+he initially required a labetalol drip to maintain sbp 's under 180 but was weaned off of it in the context of restarting his home anti-hypertensive regimen .
+1 he initially required a labetalol drip to maintain sbp[systolic blood pressure] 's under 180 but was weaned off of it in the context of restarting his home anti-hypertensive[anti-high blood pressure] regimen .
+1 he initially required a labetalol drip to maintain sbp[systolic blood pressure] 's under 180 but was weaned off of it in the context of restarting his home anti-hypertensive[anti-high blood pressure] regimen .
+3 you initially required a labetalol drip to maintain sbp[systolic blood pressure] 's under 180 but were weaned off of it in the context of restarting your home anti-hypertensive[anti-high blood pressure] regimen .
+3 you initially required a labetalol drip to maintain sbp[systolic blood pressure] 's under 180 but were weaned off of it in the context of restarting your home anti-hypertensive[anti-high blood pressure] regimen .
+
+she passed a swallow evaluation and was evaluated by pt who recommended rehab .
+1 she passed a swallow evaluation and was evaluated by pt[physical therapy] who recommended rehab .
+1 she passed a swallow evaluation and was evaluated by pt[physical therapy] who recommended rehab .
+3 you passed a swallow evaluation and were evaluated by pt[physical therapy] who recommended rehab .
+3 you passed a swallow evaluation and were evaluated by pt[physical therapy] who recommended rehab .
+
+postoperative hct was low and she was transfused prbcs with good effect .
+1 postoperative hct[hematocrit] was low and she was transfused prbcs[packed red blood cells] with good effect .
+1 postoperative hct[hematocrit] was low and she was transfused prbcs[packed red blood cells] with good effect .
+3 postoperative hct[hematocrit] was low and you were transfused prbcs[packed red blood cells] with good effect .
+3 postoperative hct[hematocrit] was low and you were transfused prbcs[packed red blood cells] with good effect .
+
+known lastname last name ( titles ) 1834 a minimally invasive esophagectomy on 11-11 for high grade dysplasia of the esophagus with no evidence of metastatic disease , pathology confirmed barrett 's esophagus with no malignancy .
+1 patient last name ( titles ) 1834 a the esophageal tumor removed through small abdominal incisions on 11-11 for precancerous changes in the cells of the esophagus of the esophagus with no evidence of metastatic disease , pathology[causes] confirmed lining of the esophagus changes, becoming more like the lining of the small intestine rather than the esophagus with no malignancy .
+1 patient last name ( titles ) 1834 a the esophageal tumor removed through small abdominal incisions on 11-11 for precancerous changes in the cells of the esophagus of the esophagus with no evidence of metastatic disease , pathology[causes] confirmed lining of the esophagus changes, becoming more like the lining of the small intestine rather than the esophagus with no malignancy .
+3 patient last name ( titles ) 1834 a the esophageal tumor removed through small abdominal incisions on 11-11 for precancerous changes in the cells of the esophagus of the esophagus with no evidence of metastatic disease , pathology[causes] confirmed lining of the esophagus changes, becoming more like the lining of the small intestine rather than the esophagus with no malignancy .
+3 patient last name ( titles ) 1834 a the esophageal tumor removed through small abdominal incisions on 11-11 for precancerous changes in the cells of the esophagus of the esophagus with no evidence of metastatic disease , pathology[causes] confirmed lining of the esophagus changes, becoming more like the lining of the small intestine rather than the esophagus with no malignancy .
+
+anal manometry study was performed 1-17 and found be normal with some hypersensitivity to balloon dilation .
+1 anal manometry study was performed 1-17 and found be normal with some hypersensitivity to balloon dilation[cardiac catheterization procedure] .
+1 anal manometry study was performed 1-17 and found be normal with some hypersensitivity to balloon dilation[cardiac catheterization procedure] .
+3 anal manometry study was performed 1-17 and found be normal with some hypersensitivity to balloon dilation[cardiac catheterization procedure] .
+3 anal manometry study was performed 1-17 and found be normal with some hypersensitivity to balloon dilation[cardiac catheterization procedure] .
+
+in the icu , his creatinine continued to trend down to 1.5 and iv fluids were subsequently held .
+1 in the icu[intensive care unit] , his creatinine continued to trend down to 1.5 and iv[intravenous] fluids were subsequently held .
+1 in the icu[intensive care unit] , his creatinine continued to trend down to 1.5 and iv[intravenous] fluids were subsequently held .
+3 in the icu[intensive care unit] , your creatinine continued to trend down to 1.5 and iv[intravenous] fluids were subsequently held .
+3 in the icu[intensive care unit] , your creatinine continued to trend down to 1.5 and iv[intravenous] fluids were subsequently held .
+
+vomited small amount of bright red blood in ed .
+1 vomited small amount of bright red blood in ed[emergency department] .
+1 vomited small amount of bright red blood in ed[emergency department] .
+3 vomited small amount of bright red blood in ed[emergency department] .
+3 vomited small amount of bright red blood in ed[emergency department] .
+
+pt returned to hospital1 18 for same day admission following his cath and discharge 1 week earlier .
+1 pt[patient] returned to hospital1 18 for same day admission following his cath[catheter] and discharge 1 week earlier .
+1 pt[patient] returned to hospital1 18 for same day admission following his cath[catheter] and discharge 1 week earlier .
+3 you returned to hospital1 18 for same day admission following your cath[catheter] and discharge 1 week earlier .
+3 you returned to hospital1 18 for same day admission following your cath[catheter] and discharge 1 week earlier .
+
+80 f with multiple medical problems , including cad , chf , pvd , dm2 , who presented with a near syncopal episode , fever , elevated wbc , some nausea today with poor po intake who was found to have gpc bacteremia and nstemi on 9-17. .
+1 80 f[female] with multiple medical problems , including cad[coronary artery disease] , chf[congestive heart failure] , pvd[peripheral vascular disease] , dm2[type 2 diabetes] , who presented with a near syncopal episode , fever , elevated wbc[white blood cell] , some sick today with poor po[by mouth] intake who was found to have gpc[gram-positive cocci] bacteremia and nstemi[non-st-elevation myocardial infarction] on 9-17. .
+2 80 f[female] with multiple medical problems , including heart disease , chf[congestive heart failure] , blood circulation disorder , type 2 diabetes , who presented with a near syncopal episode , fever , elevated wbc[white blood cell] , some sick today with poor po[by mouth] intake who was found to have bacteria that give a positive result in the gram stain test and heart attack on 9-17. .
+3 80 f[female] with multiple medical problems , including cad[coronary artery disease] , chf[congestive heart failure] , pvd[peripheral vascular disease] , dm2[type 2 diabetes] , who presented with a near syncopal episode , fever , elevated wbc[white blood cell] , some sick today with poor po[by mouth] intake who was found to have gpc[gram-positive cocci] bacteremia and nstemi[non-st-elevation myocardial infarction] on 9-17. .
+4 80 f[female] with multiple medical problems , including heart disease , chf[congestive heart failure] , blood circulation disorder , type 2 diabetes , who presented with a near syncopal episode , fever , elevated wbc[white blood cell] , some sick today with poor po[by mouth] intake who was found to have bacteria that give a positive result in the gram stain test and heart attack on 9-17. .
+
+per the patient 's pcp the ct was read as worrysome for bronchogenic carcinoma .
+1 per the patient 's pcp[primary care provider] the ct[computed tomography] was read as worrysome for a malignant neoplasm of the lung arising from the epithelium of the bronchus or bronchiole .
+1 per the patient 's pcp[primary care provider] the ct[computed tomography] was read as worrysome for a malignant neoplasm of the lung arising from the epithelium of the bronchus or bronchiole .
+3 per your pcp[primary care provider] the ct[computed tomography] was read as worrysome for a malignant neoplasm of the lung arising from the epithelium of the bronchus or bronchiole .
+3 per your pcp[primary care provider] the ct[computed tomography] was read as worrysome for a malignant neoplasm of the lung arising from the epithelium of the bronchus or bronchiole .
+
+he went to the ed and was deemed low risk for injury and was discharged home .
+1 he went to the ed[emergency department] and was deemed low risk for injury and was discharged home .
+1 he went to the ed[emergency department] and was deemed low risk for injury and was discharged home .
+3 you went to the ed[emergency department] and was deemed low risk for injury and were discharged home .
+3 you went to the ed[emergency department] and was deemed low risk for injury and were discharged home .
+
+he was weaned off levophed in the ed with stable bps in the 110s .
+1 he was weaned off levophed in the ed[emergnecy department] with stable bps[blood pressure] in the 110s .
+1 he was weaned off levophed in the ed[emergnecy department] with stable bps[blood pressure] in the 110s .
+3 you were weaned off levophed in the ed[emergnecy department] with stable bps[blood pressure] in the 110s .
+3 you were weaned off levophed in the ed[emergnecy department] with stable bps[blood pressure] in the 110s .
+
+in the ed , she had a rr in the 30 's , and she received albuterol nebs , heliox , and 3mg ativan .
+1 in the ed[emergency department] , she had a rr[respiratory rate] in the 30 's , and she received albuterol nebs , heliox , and 3mg ativan .
+2 in the ed[emergency department] , she had a breathing rate in the 30 's , and she received albuterol nebs , heliox , and 3mg ativan .
+3 in the ed[emergency department] , you had a rr[respiratory rate] in the 30 's , and you received albuterol nebs , heliox , and 3mg ativan .
+4 in the ed[emergency department] , you had a breathing rate in the 30 's , and you received albuterol nebs , heliox , and 3mg ativan .
+
+47 yo f with 1 week of uri treated with arithromycin , sent to er by pcp with rapid afib , subsequently had respiratory arrest and was intubated and sent to ccu .
+1 47 yo[year old] f[female] with 1 week of uri[upper respiratory infection] treated with arithromycin , sent to er[emergency room] by pcp[pneumocystis pneumonia] with rapid afib[atrial fibrillation] , subsequently had respiratory arrest and was put on ventilator and sent to ccu[coronary care unit] .
+2 47 yo[year old] f[female] with 1 week of uri[upper respiratory infection] treated with arithromycin , sent to er[emergency room] by lung infection with rapid abnormal heart rate , subsequently had respiratory arrest and was put on ventilator and sent to ccu[coronary care unit] .
+3 47 yo[year old] f[female] with 1 week of uri[upper respiratory infection] treated with arithromycin , sent to er[emergency room] by pcp[pneumocystis pneumonia] with rapid afib[atrial fibrillation] , subsequently had respiratory arrest and was put on ventilator and sent to ccu[coronary care unit] .
+4 47 yo[year old] f[female] with 1 week of uri[upper respiratory infection] treated with arithromycin , sent to er[emergency room] by lung infection with rapid abnormal heart rate , subsequently had respiratory arrest and was put on ventilator and sent to ccu[coronary care unit] .
+
+fast ultrasound exam performed by ed staff was thought by ed staff to be positive for hemoperitoneum .
+1 fast[focused assessment with sonography for trauma] ultrasound exam performed by ed[emergency department] staff was thought by ed[emergency department] staff to be positive for presence of blood in the peritoneal cavity .
+2 ultrasound examination ultrasound exam performed by ed[emergency department] staff was thought by ed[emergency department] staff to be positive for presence of blood in the peritoneal cavity .
+3 fast[focused assessment with sonography for trauma] ultrasound exam performed by ed[emergency department] staff was thought by ed[emergency department] staff to be positive for presence of blood in the peritoneal cavity .
+4 ultrasound examination ultrasound exam performed by ed[emergency department] staff was thought by ed[emergency department] staff to be positive for presence of blood in the peritoneal cavity .
+
+concentrated hydromorphone 20mg/ml was given and then she was transitioned from iv to po .
+1 concentrated hydromorphone 20mg/ml was given and then she was transitioned from iv[intravenous] to po[by mouth] .
+2 concentrated hydromorphone 20mg/ml was given and then she was transitioned from iv[intravenous] to oral .
+3 concentrated hydromorphone 20mg/ml was given and then you were transitioned from iv[intravenous] to po[by mouth] .
+4 concentrated hydromorphone 20mg/ml was given and then you were transitioned from iv[intravenous] to oral .
+
+admitted for iv albumin , antibiotics for possible rul pna seen on cxr , and fluid optimization .
+1 admitted for iv[intravenous] albumin , antibiotics for possible rul[right upper lobe] pna[pneumonia] seen on cxr[chest x-ray] , and fluid optimization .
+2 admitted for iv[intravenous] albumin , antibiotics for possible right upper lung infection seen on cxr[chest x-ray] , and fluid optimization .
+3 admitted for iv[intravenous] albumin , antibiotics for possible rul[right upper lobe] pna[pneumonia] seen on cxr[chest x-ray] , and fluid optimization .
+4 admitted for iv[intravenous] albumin , antibiotics for possible right upper lung infection seen on cxr[chest x-ray] , and fluid optimization .
+
+74-year-old m with hx htn , papillary renal cell ca s/p resection ( partial nephrectomy and distal pancreatetomy with splenectomy for removal of possible mass , later presumed to represent chronic pancreatitis ) 2123-11-1 , extensive tobacco history , and remote history of migraine , presenting with headache and unsteadiness .
+1 74-year-old m[male] with hx[history] htn[hypertension] , papillary kidney cell ca[cancer] s/p[status post] resection ( partial surgical removal of a kidney and pancreas removed with splenectomy[a surgery] for removal of possible mass , later presumed to represent chronic inflammation of the pancreas ) 2123-11-1 , extensive tobacco history , and remote history of migraine , presenting with headache and unsteadiness .
+2 74-year-old m[male] with hx[history] high blood pressure , cancer that occurs in the kidneys after resection ( partial surgical removal of a kidney and pancreas removed with splenectomy[a surgery] for removal of possible mass , later presumed to represent chronic inflammation of the pancreas ) 2123-11-1 , extensive tobacco history , and remote history of migraine , presenting with headache and unsteadiness .
+3 74-year-old m[male] with hx[history] htn[hypertension] , papillary kidney cell ca[cancer] s/p[status post] resection ( partial surgical removal of a kidney and pancreas removed with splenectomy[a surgery] for removal of possible mass , later presumed to represent chronic inflammation of the pancreas ) 2123-11-1 , extensive tobacco history , and remote history of migraine , presenting with headache and unsteadiness .
+4 74-year-old m[male] with hx[history] high blood pressure , cancer that occurs in the kidneys after resection ( partial surgical removal of a kidney and pancreas removed with splenectomy[a surgery] for removal of possible mass , later presumed to represent chronic inflammation of the pancreas ) 2123-11-1 , extensive tobacco history , and remote history of migraine , presenting with headache and unsteadiness .
+
+in the ed , the patient was tachycardic , hypoxic on ra on arrival .
+1 in the ed[emergency department] , the patient had abnormally rapid heart rate , lack of oxygen on ra[room air] on arrival .
+1 in the ed[emergency department] , the patient had abnormally rapid heart rate , lack of oxygen on ra[room air] on arrival .
+3 in the ed[emergency department] , you had abnormally rapid heart rate , lack of oxygen on ra[room air] on arrival .
+3 in the ed[emergency department] , you had abnormally rapid heart rate , lack of oxygen on ra[room air] on arrival .
+
+in the icu , cyclosporin levels were checked qam and cyclosporin was redosed if level < 100 as per bmt recs .
+1 in the icu[intensive care unit] , cyclosporin levels were checked qam[every morning] and cyclosporin was reused if level < 100 as per bmt[one marrow transplantation] recs[records] .
+1 in the icu[intensive care unit] , cyclosporin levels were checked qam[every morning] and cyclosporin was reused if level < 100 as per bmt[one marrow transplantation] recs[records] .
+3 in the icu[intensive care unit] , cyclosporin levels were checked qam[every morning] and cyclosporin was reused if level < 100 as per bmt[one marrow transplantation] recs[records] .
+3 in the icu[intensive care unit] , cyclosporin levels were checked qam[every morning] and cyclosporin was reused if level < 100 as per bmt[one marrow transplantation] recs[records] .
+
+when his vision did not return he went to the pcp where he was found to have his bp in the 200 's .
+1 when his vision did not return he went to the pcp[primary care provider] where he was found to have his bp[blood pressure] in the 200 's .
+1 when his vision did not return he went to the pcp[primary care provider] where he was found to have his bp[blood pressure] in the 200 's .
+3 when your vision did not return he went to the pcp[primary care provider] where you were found to have your bp[blood pressure] in the 200 's .
+1 when his vision did not return he went to the pcp[primary care provider] where you were found to have your bp[blood pressure] in the 200 's .
+
+54 yo male d/c 'd from hospital1 18 with dx of pneumonia on 9-10 returns 9-11 with report of shortness of breath , desaturation , and worsening pulmonary edema from osh and rehab .
+1 54 yo[year old] male d/c 'd[discharged] from hospital1 18 with dx[diagnosis] of infection of lungs on 9-10 returns 9-11 with report of shortness of breath , desaturation , and worsening pulmonary edema from osh[outside hospital] and rehab .
+1 54 yo[year old] male d/c 'd[discharged] from hospital1 18 with dx[diagnosis] of infection of lungs on 9-10 returns 9-11 with report of shortness of breath , desaturation , and worsening pulmonary edema from osh[outside hospital] and rehab .
+3 54 yo[year old] male d/c 'd[discharged] from hospital1 18 with dx[diagnosis] of infection of lungs on 9-10 returns 9-11 with report of shortness of breath , desaturation , and worsening pulmonary edema from osh[outside hospital] and rehab .
+3 54 yo[year old] male d/c 'd[discharged] from hospital1 18 with dx[diagnosis] of infection of lungs on 9-10 returns 9-11 with report of shortness of breath , desaturation , and worsening pulmonary edema from osh[outside hospital] and rehab .
+
+of note , bp spiked to 198/96 during this episode , but trended down to 160's/90 's .
+1 of note , bp[blood pressure] spiked to 198/96 during this episode , but trended down to 160's/90 's .
+1 of note , bp[blood pressure] spiked to 198/96 during this episode , but trended down to 160's/90 's .
+3 of note , bp[blood pressure] spiked to 198/96 during this episode , but trended down to 160's/90 's .
+3 of note , bp[blood pressure] spiked to 198/96 during this episode , but trended down to 160's/90 's .
+
+she has been treated with bowel regimen and enemas in the ed without great success .
+1 she has been treated with bowel prescribed course of medical treatment and enemas in the ed[emergency department] without great success .
+1 she has been treated with bowel prescribed course of medical treatment and enemas in the ed[emergency department] without great success .
+3 you have been treated with bowel prescribed course of medical treatment and enemas in the ed[emergency department] without great success .
+3 you have been treated with bowel prescribed course of medical treatment and enemas in the ed[emergency department] without great success .
+
+his initial ecg revealed st depression in i , avl , and v2-v5 with afib , tn was .33 ; afib has since resolved , st changes now read as non-specific .
+1 his initial ecg[electrocardiogram] revealed st depression in i[finds] , avl[finds] , and v2-v5[waves] with afib[atrial fibrillation] , troponin was .33 ; afib[atrial fibrillation] has since resolved , st[finds] changes now read as non-specific .
+2 his initial heart electrical activity detection revealed st depression in i[finds] , avl[finds] , and v2-v5[observe' the depolarization wave] with abnormal heart rate , troponin was .33 ; abnormal heart rate has since resolved , st[finds] changes now read as non-specific .
+3 your initial ecg[electrocardiogram] revealed st depression in i[finds] , avl[finds] , and v2-v5[waves] with afib[atrial fibrillation] , troponin was .33 ; afib[atrial fibrillation] has since resolved , st[finds] changes now read as non-specific .
+4 your initial heart electrical activity detection revealed st depression in i[finds] , avl[finds] , and v2-v5[observe' the depolarization wave] with abnormal heart rate , troponin was .33 ; abnormal heart rate has since resolved , st[finds] changes now read as non-specific .
+
+she received a total of 2 units prbcs during her stay , and responded well to these transfusions .
+1 she received a total of 2 units prbcs[packed red blood cells] during her stay , and responded well to these transfusions .
+1 she received a total of 2 units prbcs[packed red blood cells] during her stay , and responded well to these transfusions .
+3 you received a total of 2 units prbcs[packed red blood cells] during her stay , and responded well to these transfusions .
+3 you received a total of 2 units prbcs[packed red blood cells] during her stay , and responded well to these transfusions .
+
+at hospital1 location 620 , vs : t98.4 p44 rr18 bp181/74 and sao2 97 % .
+1 at hospital1 location 620 , vs[vital signs] : t98.4 p44 rr[respiratory rate]18 bp[blood pressure]181/74 and sao2[oxygen saturation ] 97 % .
+1 at hospital1 location 620 , vs[vital signs] : t98.4 p44 rr[respiratory rate]18 bp[blood pressure]181/74 and sao2[oxygen saturation ] 97 % .
+3 at hospital1 location 620 , vs[vital signs] : t98.4 p44 rr[respiratory rate]18 bp[blood pressure]181/74 and sao2[oxygen saturation ] 97 % .
+3 at hospital1 location 620 , vs[vital signs] : t98.4 p44 rr[respiratory rate]18 bp[blood pressure]181/74 and sao2[oxygen saturation ] 97 % .
+
+per id , given clinical improvement will continue with current regimen .
+1 per id[infectious dose] , given clinical improvement will continue with current regimen .
+1 per id[infectious dose] , given clinical improvement will continue with current regimen .
+3 per id[infectious dose] , given clinical improvement will continue with current regimen .
+3 per id[infectious dose] , given clinical improvement will continue with current regimen .
+
+a stereotactic biopsy was performed on 2-12 , and the patient failed to extubate due to respiratory distress and agitation .
+1 a stereotactic biopsy[a biopsy procedure] was performed on 2-12 , and the patient failed to extubate due to respiratory distress and agitation .
+2 a stereotactic biopsy[a biopsy procedure] was performed on 2-12 , and the patient failed to extubate due to breathing distress and agitation .
+3 a stereotactic biopsy[a biopsy procedure] was performed on 2-12 , and you failed to extubate due to respiratory distress and agitation .
+4 a stereotactic biopsy[a biopsy procedure] was performed on 2-12 , and you failed to extubate due to breathing distress and agitation .
+
+treatment was initiated with antibiotics ( ctx , levoquin ) for pna , and steroids for copd flare .
+1 treatment was initiated with antibiotics ( ctx[ceftriaxone] , levoquin ) for pna[pneumonia] , and steroids for copd[chronic obstructive pulmonary disease] flare .
+2 treatment was initiated with antibiotics ( ctx[ceftriaxone] , levoquin ) for lung infection , and steroids for obstructive lung disease flare .
+3 treatment was initiated with antibiotics ( ctx[ceftriaxone] , levoquin ) for pna[pneumonia] , and steroids for copd[chronic obstructive pulmonary disease] flare .
+4 treatment was initiated with antibiotics ( ctx[ceftriaxone] , levoquin ) for lung infection , and steroids for obstructive lung disease flare .
+
+after receiving the diazepam in the ed , he became calmer and more somnolent , possibly due to the librium starting to take effect .
+1 after receiving the diazepam in the ed[emergency department] , he became calmer and more sleepy , possibly due to the librium starting to take effect .
+1 after receiving the diazepam in the ed[emergency department] , he became calmer and more sleepy , possibly due to the librium starting to take effect .
+3 after receiving the diazepam in the ed[emergency department] , you became calmer and more sleepy , possibly due to the librium starting to take effect .
+3 after receiving the diazepam in the ed[emergency department] , you became calmer and more sleepy , possibly due to the librium starting to take effect .
+
